@@ -1,6 +1,6 @@
 ## 共鸣水晶实验记录 (Resonance Crystal Experiment Log) EXP-O442-PHY
 
-### 基本信息
+### 档案信息
 
 | 项目 | 内容 |
 |------|------|
