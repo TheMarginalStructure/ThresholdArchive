@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/230116290?v=4" alt="边际结构 logo"></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/230116290?v=5" alt="边际结构 logo"></p>
 
 **核心概念：**
 
