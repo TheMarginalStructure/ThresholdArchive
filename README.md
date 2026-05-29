@@ -1,6 +1,14 @@
 
 <p align="center"><img src="https://avatars.githubusercontent.com/u/230116290?v=5" alt="边际结构 logo"></p>
 
+> **📂 仓库结构**
+> 本项目已拆分为三个独立仓库：
+> - **[ThresholdArchive](https://github.com/TheMarginalStructure/ThresholdArchive)** — 世界观设定、档案、系列等文本内容（当前仓库）
+> - **[ThresholdArchive-Frontend](https://github.com/TheMarginalStructure/ThresholdArchive-Frontend)** — 前端应用 (React + Vite + Tailwind)
+> - **[ThresholdArchive-Backend](https://github.com/TheMarginalStructure/ThresholdArchive-Backend)** — 后端 API (Express + Prisma + TypeScript)
+>
+> 启动方式：`./start.ps1`（需将三个仓库克隆到同一父目录下）
+
 **核心概念：**
 
 现实并非坚固稳定。在人类集体意识、物理定律和未知维度相互作用的边缘地带，存在着被称为 **“阈界”** 的渗透层或断层空间。这些阈界并非传统意义上的另一个世界，而是现实结构中的“bug”、“褶皱”或“溢出地带”。它们通常无法通过常规手段观测或进入，但会因为各种原因（特定频率的思维、能量爆发、数学错误、甚至纯粹的巧合）与基准现实产生短暂或永久的“连接点”。

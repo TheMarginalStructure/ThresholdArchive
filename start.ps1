@@ -12,8 +12,9 @@ $FRONTEND_PORT = 3000
 $BACKEND_PORT = 3001
 $STUDIO_PORT = 5555
 $PROJECT_ROOT = Split-Path -Parent $MyInvocation.MyCommand.Path
-$FRONTEND_DIR = Join-Path $PROJECT_ROOT "frontend"
-$BACKEND_DIR = Join-Path $PROJECT_ROOT "backend"
+$PARENT_DIR = Split-Path $PROJECT_ROOT -Parent
+$FRONTEND_DIR = Join-Path $PARENT_DIR "ThresholdArchive-Frontend"
+$BACKEND_DIR = Join-Path $PARENT_DIR "ThresholdArchive-Backend"
 
 $global:backendPid = $null
 $global:frontendPid = $null
