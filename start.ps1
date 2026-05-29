@@ -84,7 +84,7 @@ Write-Host "        边际结构项目启动脚本" -ForegroundColor Cyan
 Write-Host "========================================" -ForegroundColor Cyan
 Write-Host "前端端口: $FRONTEND_PORT" -ForegroundColor White
 Write-Host "后端端口: $BACKEND_PORT" -ForegroundColor White
-Write-Host "项目目录: $PROJECT_ROOT"
+Write-Host "项目目录: $PARENT_DIR"
 Write-Host ""
 
 Write-Log "清理端口占用..."
