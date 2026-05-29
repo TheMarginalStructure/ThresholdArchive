@@ -35,3 +35,13 @@ Thumbs.db
 *.db
 *.sqlite
 *.sqlite3
+<<<<<<< HEAD
+=======
+
+# 上传文件
+uploads/
+public/uploads/
+
+# 数据库导出备份（导入用）
+backend/seed-data-export.json
+>>>>>>> 6e88b4c (docs: add database setup guide + import/export scripts)
