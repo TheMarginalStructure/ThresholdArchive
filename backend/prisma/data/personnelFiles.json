@@ -1,0 +1,219 @@
+[
+  {
+    "id": "HR-400001",
+    "code": "HR-400001",
+    "title": "人员：戴维·卡特博士 | 履历材料",
+    "status": "在档",
+    "threatLevel": null,
+    "threatLevelColor": "不适用",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "医疗与心理部",
+    "accessLevel": null,
+    "responsibleDepartment": "医疗与心理部",
+    "leadPerson": "戴维·卡特博士",
+    "lastUpdate": "[数据删除]",
+    "description": "本档案为戴维·卡特博士的履历材料，记录了其个人基本信息、教育背景、工作经历、专业技能等核心信息。档案为人事管理、职务调整、绩效评估等提供依据。",
+    "mainDangers": [
+      "个人隐私保护，涉及心理评估相关信息需严格控制访问"
+    ],
+    "relatedArchives": [
+      {
+        "code": "MED-L0734",
+        "type": "医疗报告",
+        "title": "TMS-L0734勘探任务后心理评估报告",
+        "relation": "心理评估报告"
+      },
+      {
+        "code": "TMS-L0734",
+        "type": "阈界档案",
+        "title": "囤积者回廊阈界档案",
+        "relation": "相关威胁档案"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席档案员",
+        "name": "安雅·夏尔马",
+        "signature": "[ESIG-AS]",
+        "date": "[数据删除]",
+        "note": "档案建立/更新"
+      },
+      {
+        "position": "医疗与心理部部长",
+        "name": "埃莉诺·肖博士",
+        "signature": "[ESIG-ES]",
+        "date": "[数据删除]",
+        "note": "部门审核确认"
+      },
+      {
+        "position": "总指挥",
+        "name": "伊利亚·彼得连科总指挥",
+        "signature": "[ESIG-IP]",
+        "date": "[数据删除]",
+        "note": "最终审核"
+      }
+    ],
+    "finalReview": "伊利亚·彼得连科总指挥 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "",
+    "remarks": "卡特博士是医疗与心理部的资深专家，在L734-LND事件中展现了专业精神，但也提醒我们即使是经验丰富的专家也可能受到认知危害影响。其康复过程为组织积累了宝贵经验。 —— 安雅·夏尔马",
+    "category": "人事档案",
+    "personnelInfo": {
+      "name": "戴维·卡特博士 (David Carter)",
+      "id": "DCarter",
+      "code": "4000-32-0348",
+      "department": "医疗与心理部",
+      "position": "医疗与心理部副部长",
+      "hireDate": "[数据删除]",
+      "archiveDate": "[数据删除]",
+      "lastUpdate": "[数据删除]"
+    },
+    "education": {
+      "background": "博士学位，临床心理学专业，[数据删除]大学，[数据删除]年"
+    },
+    "workExperience": [
+      {
+        "period": "[数据删除]年-至今",
+        "organization": "边际结构医疗与心理部",
+        "position": "医疗与心理部副部长"
+      }
+    ],
+    "skills": [
+      "心理评估",
+      "认知行为疗法",
+      "创伤心理学",
+      "阈界认知危害评估"
+    ],
+    "qualifications": [
+      "临床心理学家执业资格",
+      "认知危害抵抗评估师认证"
+    ],
+    "performanceRecords": [
+      {
+        "time": "[数据删除]",
+        "workItem": "L734-LND勘探任务心理支持",
+        "evaluation": "专业表现优秀，但遭受认知污染",
+        "recorder": "埃莉诺·肖博士"
+      },
+      {
+        "time": "[数据删除]",
+        "workItem": "常规心理评估工作",
+        "evaluation": "工作认真负责，评估准确",
+        "recorder": "埃莉诺·肖博士"
+      }
+    ],
+    "trainingRecords": [
+      {
+        "time": "[数据删除]",
+        "content": "阈界认知危害防护培训",
+        "participation": "全程参与",
+        "effect": "考核优秀"
+      },
+      {
+        "time": "[数据删除]",
+        "content": "创伤后应激障碍治疗进阶培训",
+        "participation": "全程参与",
+        "effect": "考核良好"
+      }
+    ],
+    "evaluations": [
+      {
+        "dimension": "工作能力",
+        "result": "优秀",
+        "performance": "心理评估专业能力强，对认知危害有深入理解",
+        "suggestion": "可承担更多复杂案例评估"
+      },
+      {
+        "dimension": "工作态度",
+        "result": "良好",
+        "performance": "认真负责，对患者关怀备至",
+        "suggestion": "保持现有水平"
+      },
+      {
+        "dimension": "团队协作",
+        "result": "良好",
+        "performance": "与医疗团队配合默契",
+        "suggestion": "可发挥更多指导作用"
+      }
+    ],
+    "careerSuggestions": [
+      {
+        "direction": "专业提升",
+        "suggestion": "参加高级认知危害治疗培训",
+        "time": "[数据删除]",
+        "expectedEffect": "提升专业技能"
+      },
+      {
+        "direction": "职务发展",
+        "suggestion": "继续发挥副部长职责，考虑承担更多部门管理工作",
+        "time": "[数据删除]",
+        "expectedEffect": "提升部门管理效率"
+      }
+    ],
+    "specialNotes": [
+      {
+        "note": "任务限制",
+        "detail": "暂缓安排进入琥珀色-C级或更高的认知危害阈界",
+        "validPeriod": "至少三个月"
+      },
+      {
+        "note": "定期检查",
+        "detail": "每月进行一次强制性心理复查",
+        "validPeriod": "持续半年"
+      },
+      {
+        "note": "风险规避",
+        "detail": "对涉及\"无序\"、\"堆积\"要素的阈界表现出谨慎态度",
+        "validPeriod": "长期观察"
+      }
+    ],
+    "archiveChanges": [
+      {
+        "time": "[数据删除]",
+        "content": "添加L734-LND事件相关记录",
+        "reason": "重要事件记录",
+        "operator": "安雅·夏尔马"
+      },
+      {
+        "time": "[数据删除]",
+        "content": "更新工作状态和限制条件",
+        "reason": "心理评估结果",
+        "operator": "安雅·夏尔马"
+      }
+    ],
+    "accessRecords": [
+      {
+        "time": "[数据删除]",
+        "accessor": "埃莉诺·肖博士",
+        "purpose": "心理评估后续跟踪",
+        "authorizer": "系统自动授权"
+      },
+      {
+        "time": "[数据删除]",
+        "accessor": "伊利亚·彼得连科总指挥",
+        "purpose": "人事状况审查",
+        "authorizer": "系统自动授权"
+      }
+    ],
+    "appendices": [
+      {
+        "code": "HR-400001-A01",
+        "content": "学历证书扫描件",
+        "type": "PDF文档",
+        "location": "档案系统"
+      },
+      {
+        "code": "HR-400001-A02",
+        "content": "职业资格证书扫描件",
+        "type": "PDF文档",
+        "location": "档案系统"
+      },
+      {
+        "code": "HR-400001-A03",
+        "content": "L734-LND事件相关材料",
+        "type": "档案引用",
+        "location": "档案系统"
+      }
+    ]
+  }
+]

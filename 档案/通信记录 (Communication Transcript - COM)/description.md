@@ -1,0 +1,1 @@
+**通信记录 (Communication Transcript - CT):** 重要会议、紧急通讯的记录。

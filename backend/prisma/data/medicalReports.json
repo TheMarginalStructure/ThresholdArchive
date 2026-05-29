@@ -1,0 +1,589 @@
+[
+  {
+    "id": "MED-P0990",
+    "code": "MED-P0990",
+    "title": "关于TMS-V0990 (\"永夜钟楼\") 模因感染现象的心理危害评估报告",
+    "status": "活跃",
+    "threatLevel": "琥珀色-C",
+    "threatLevelColor": "琥珀色",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "医疗与心理部",
+    "accessLevel": "4级",
+    "responsibleDepartment": "医疗与心理部",
+    "leadPerson": "戴维·卡特博士",
+    "lastUpdate": "[数据删除]",
+    "description": "本医疗报告由戴维·卡特博士撰写，深度分析了TMS-V0990现象的独特心理危害机制。报告将其定义为\"认知锁定\"与\"强制性清醒\"，详细阐述了其从感染到最终\"结晶化\"的三个临床发展阶段，并评估了现行治疗方案的难点与效果。是应对此类剥夺性认知危害的关键参考文献。",
+    "mainDangers": [
+      "认知锁定",
+      "存在性危害"
+    ],
+    "relatedArchives": [
+      {
+        "code": "EVT-P0990-INC",
+        "type": "事件通信",
+        "title": "V-990-INC事件报告",
+        "relation": "关联事件报告"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "医疗与心理部医师",
+        "name": "戴维·卡特博士",
+        "signature": "[ESIG-DC]",
+        "date": "[数据删除]",
+        "note": "报告撰写人"
+      },
+      {
+        "position": "医疗与心理部部长",
+        "name": "埃莉诺·肖博士",
+        "signature": "[ESIG-ES]",
+        "date": "[数据删除]",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "埃莉诺·肖博士 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "",
+    "remarks": "卡特博士在完成此报告后申请了一周的休假。他在休假申请中引用的理由是\"需要进行预防性心理休息\"。 —— 埃莉诺·肖博士",
+    "category": "医疗报告",
+    "executiveSummary": [
+      {
+        "item": "威胁性质",
+        "conclusion": "该威胁并非传统意义上的精神攻击，而是一种针对生命基本需求——睡眠——的、高度特化的认知锁定机制"
+      },
+      {
+        "item": "危害本质",
+        "conclusion": "存在性的，通过剥夺受害者的休息能力，最终导致意识的彻底枯竭与同化"
+      },
+      {
+        "item": "治疗效果",
+        "conclusion": "常规心理干预手段效果有限，需采取针对性的反制措施"
+      }
+    ],
+    "mechanismAnalysis": [
+      {
+        "dimension": "感染方式",
+        "description": "并非通过传统的信息传递或模因符号，而是直接\"劫持\"或\"重写\"睡眠-清醒周期的神经调节基础"
+      },
+      {
+        "dimension": "认知框架",
+        "description": "在生理基础上叠加一个感知到\"钟楼\"的认知框架，受害者的感知系统被强制调整，将其接受为客观现实的一部分"
+      },
+      {
+        "dimension": "听觉表征",
+        "description": "钟声是这种异常神经活动的听觉表征"
+      }
+    ],
+    "coreHazards": [
+      {
+        "type": "强制性清醒",
+        "mechanism": "并非阻止睡眠，而是创造一种持续的、无法解除的生理和心理上的\"待机\"状态"
+      },
+      {
+        "type": "神经损伤",
+        "mechanism": "大脑无法进入恢复性睡眠所必需的离线状态，如同一台被取消了休眠功能的电脑，持续空转"
+      },
+      {
+        "type": "最终结果",
+        "mechanism": "导致硬件（身体）和软件（意识）的双重过热与崩溃"
+      }
+    ],
+    "clinicalStages": [
+      {
+        "stage": "阶段一：感染 (Implantation)",
+        "timeFeature": "初期",
+        "symptoms": "失眠开始，首次感知到\"钟楼\"轮廓（通常在视野外围），听到非规律性钟声",
+        "psychologicalImpact": "困惑，轻度焦虑，试图为异常感知寻找理性解释（如：\"大概是附近新盖的建筑？\"）",
+        "physiologicalBasis": "视交叉上核（SCN）节律开始出现微不可察的偏差"
+      },
+      {
+        "stage": "阶段二：强化 (Intensification)",
+        "timeFeature": "发展期",
+        "symptoms": "失眠加剧，钟楼形象更清晰、更持久，钟声感知强化。出现\"我必须保持清醒以监视它\"或\"如果我睡着，可能会错过重要事情\"的荒谬但无法摆脱的逻辑",
+        "psychologicalImpact": "焦虑加剧，易怒，认知功能（注意力、记忆力）开始下降。现实感开始动摇",
+        "physiologicalBasis": "褪黑激素分泌被完全抑制。压力激素（如皮质醇）水平异常升高且失去昼夜节律"
+      },
+      {
+        "stage": "阶段三：同化 (Assimilation) / \"结晶化\"",
+        "timeFeature": "终末期",
+        "symptoms": "极端疲劳与病理性清醒并存。情感反应极度淡漠，对外界刺激无反应。钟楼感知成为唯一的感知焦点",
+        "psychologicalImpact": "意识活动近乎停止。自我认知崩溃。个体不再感到痛苦，而是进入一种空洞的、静态的存在状态",
+        "physiologicalBasis": "大脑高频活动（β波）耗尽，被极度低平、无序的脑电活动取代。新陈代谢疯狂空转，身体急剧损耗。患者成为阈界在基准现实的一个静态锚点，微微扩大其渗透范围"
+      }
+    ],
+    "treatmentDifficulties": [
+      {
+        "type": "生理成瘾性",
+        "description": "危害已深度嵌入基础的神经生理过程，远超单纯的心理信念"
+      },
+      {
+        "type": "缺乏标的",
+        "description": "传统心理治疗需要处理一个\"想法\"，而TMS-V0990感染是一种\"状态\"，缺乏可供辩驳或解构的具体内容"
+      },
+      {
+        "type": "三期不可逆",
+        "description": "三期患者的大脑已发生结构性/化学性不可逆改变，意识已有效熄灭"
+      }
+    ],
+    "treatmentPlans": [
+      {
+        "stage": "急性期干预",
+        "target": "一、二期患者",
+        "method": "强制感官剥夺",
+        "measures": "在隔音、光屏蔽的\"摇篮\"单元中进行"
+      },
+      {
+        "stage": "急性期干预",
+        "target": "一、二期患者",
+        "method": "药物\"重置\"",
+        "measures": "使用强效镇静剂和神经阻断剂，强制大脑进入离线状态，暂时打破\"清醒\"指令循环"
+      },
+      {
+        "stage": "急性期干预",
+        "target": "一、二期患者",
+        "method": "认知重构",
+        "measures": "在患者意识恢复窗口期，持续施加反模因信息（\"睡眠是安全的\"、\"钟楼是幻觉\"），尝试覆盖异常认知框架"
+      },
+      {
+        "stage": "终末期护理",
+        "target": "三期患者",
+        "method": "无治疗方案",
+        "measures": "提供生命支持和舒缓护理。严格隔离，防止其成为扩散源"
+      }
+    ],
+    "threatAssessment": "TMS-V0990代表了一类极其阴险的威胁。它不与我们战斗，它只是简单地、持续地否定我们存在的一个基本方面。对抗它不是在对抗一个怪物，而是在对抗\"无法休息\"这一概念本身。其缓慢、必然的进程能瓦解最坚强的意志。",
+    "recommendations": [
+      {
+        "type": "预防优于治疗",
+        "measures": "所有资源应向信息管控（白噪音协议）和感知阻断（BP-7眼罩, WN-4发生器）倾斜"
+      },
+      {
+        "type": "研发优先",
+        "measures": "应优先研发能够特异性阻断该异常神经信号的靶向药物或神经调节设备"
+      },
+      {
+        "type": "心理筛查",
+        "measures": "对常驻高风险区域的人员，应定期进行睡眠质量及认知偏向筛查，以期早期发现感染"
+      },
+      {
+        "type": "伦理准备",
+        "measures": "需预先制定针对大规模爆发事件的应急预案，包括可能需要的、极其严厉的隔离与人员管控措施"
+      }
+    ],
+    "appendices": [
+      {
+        "code": "附录 A",
+        "content": "一至三期患者典型脑电图对比图"
+      },
+      {
+        "code": "附录 B",
+        "content": "使用的药物清单及疗效初步统计"
+      },
+      {
+        "code": "附录 C",
+        "content": "反模因信息播撒内容示例"
+      }
+    ]
+  },
+  {
+    "id": "MED-L0734",
+    "code": "MED-L0734",
+    "title": "TMS-L0734勘探任务后心理评估报告",
+    "status": "封存",
+    "threatLevel": null,
+    "threatLevelColor": "不适用",
+    "archiveDate": "[勘探任务结束后第14日]",
+    "sourceDepartment": "医疗与心理部",
+    "accessLevel": "3级",
+    "responsibleDepartment": "医疗与心理部",
+    "leadPerson": "埃莉诺·肖博士",
+    "lastUpdate": "[数据删除]",
+    "description": "本附件为医疗与心理部副部长戴维·卡特博士在完成囤积者回廊(TMS-L0734)勘探任务后接受的强制性心理评估报告。报告诊断其遭受\"短期认知污染（STCC）\"，表现为对特定阈界物品的病理性留恋，并记录了完整的治疗与康复过程。此报告揭示了囤积者回廊(TMS-L0734)认知危害的滞后性与针对性。",
+    "mainDangers": [
+      "不适用"
+    ],
+    "relatedArchives": [
+      {
+        "code": "TMS-L0734",
+        "type": "阈界档案",
+        "title": "囤积者回廊阈界档案",
+        "relation": "相关威胁档案"
+      },
+      {
+        "code": "HR-RES-DCarter",
+        "type": "人事档案",
+        "title": "戴维·卡特博士履历材料",
+        "relation": "主人事档案"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "医疗与心理部副主任",
+        "name": "埃莉诺·肖博士",
+        "signature": "[ESIG-ES]",
+        "date": "[数据删除]",
+        "note": "评估负责人"
+      },
+      {
+        "position": "被评估人",
+        "name": "戴维·卡特博士",
+        "signature": "[ESIG-DC]",
+        "date": "[数据删除]",
+        "note": "已知悉评估结果"
+      }
+    ],
+    "finalReview": "埃莉诺·肖博士 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-L0734.png",
+    "remarks": "卡特博士的康复情况良好。然而，值得注意的是，在其后的任务评估中，他对涉及\"无序\"、\"堆积\"要素的阈界提案，表现出较任务前更为显著的谨慎甚至抵触态度。这并非病理性的，更像是一种基于创伤经验的、高度个人化的风险规避。建议在未来任务分配中考虑此因素。他比任何人都更清楚地知道，有些伤痕，即使愈合，也会改变一个人的形状。 —— 安雅·夏尔马",
+    "category": "医疗报告",
+    "executiveSummary": [
+      {
+        "item": "症状诊断",
+        "conclusion": "短期认知污染（Short-Term Cognitive Contamination, STCC）"
+      },
+      {
+        "item": "主要表现",
+        "conclusion": "对特定阈界物品（一颗玻璃珠）的病理性留恋（Pathological Attachment）及相关的轻度焦虑与丧失感"
+      },
+      {
+        "item": "治疗方案",
+        "conclusion": "为期两周的认知行为疗法（CBT）及辅助药物干预"
+      },
+      {
+        "item": "治疗结果",
+        "conclusion": "症状已基本消除"
+      },
+      {
+        "item": "工作状态",
+        "conclusion": "适合重返一般性职责，但建议暂缓安排其进入高强度认知危害环境"
+      }
+    ],
+    "mechanismAnalysis": [
+      {
+        "dimension": "感染方式",
+        "description": "由TMS-L0734的特定交互情境（捡起物品并被剥夺）引发"
+      },
+      {
+        "dimension": "认知框架",
+        "description": "阈界的规则——\"一切物品都必须被保留\"的绝对法则——像病毒一样覆盖了患者的判断"
+      },
+      {
+        "dimension": "危害特性",
+        "description": "TMS-L0734认知危害具有高度针对性和滞后性，其\"所有物不可剥夺\"的规则能通过行为互动强行植入"
+      }
+    ],
+    "coreHazards": [
+      {
+        "type": "短期认知污染 (STCC)",
+        "mechanism": "通过特定交互情境（捡起物品并被剥夺）引发，对阈界物品产生病理性留恋"
+      },
+      {
+        "type": "行为异常",
+        "mechanism": "反复、无意识地把玩或寻找小型圆形物体，流露出明显的惋惜情绪"
+      },
+      {
+        "type": "心理测试指标下降",
+        "mechanism": "认知危害抵抗量表 (CHRS) 从任务前92分（优异）暂时下降至65分（需观察）"
+      }
+    ],
+    "clinicalStages": [
+      {
+        "stage": "隔离观察",
+        "timeFeature": "首周",
+        "symptoms": "于医疗部隔离观察室进行，限制接触可能触发联想的物品",
+        "psychologicalImpact": "稳定症状",
+        "physiologicalBasis": "-"
+      },
+      {
+        "stage": "认知行为疗法 (CBT)",
+        "timeFeature": "治疗期",
+        "symptoms": "由肖博士主持，强化现实边界认知，解构\"物品与自我价值\"的错误链接，暴露疗法淡化\"丧失\"应激反应",
+        "psychologicalImpact": "显著改善",
+        "physiologicalBasis": "-"
+      },
+      {
+        "stage": "药物辅助",
+        "timeFeature": "治疗期",
+        "symptoms": "低剂量选择性血清素再吸收抑制剂（SSRI）",
+        "psychologicalImpact": "情绪稳定",
+        "physiologicalBasis": "缓解焦虑情绪，稳定心境"
+      },
+      {
+        "stage": "治疗结果",
+        "timeFeature": "康复期",
+        "symptoms": "对玻璃珠的执念已消除",
+        "psychologicalImpact": "心理测试指标逐步回归正常范围，CHRS评分回升至85分（良好）",
+        "physiologicalBasis": "康复良好"
+      }
+    ],
+    "treatmentDifficulties": [
+      {
+        "type": "认知框架覆盖",
+        "description": "阈界规则强行覆盖正常判断，松手的那一刻不像是丢弃，更像是截肢"
+      },
+      {
+        "type": "滞后性",
+        "description": "认知危害在任务结束后才显现，增加了识别和干预的难度"
+      },
+      {
+        "type": "针对性",
+        "description": "危害针对特定物品和交互情境，具有高度个人化特征"
+      }
+    ],
+    "treatmentPlans": [
+      {
+        "stage": "工作安排",
+        "target": "对象适合重返一般性职责，包括心理咨询和低风险任务评估",
+        "method": "一般性职责",
+        "measures": "恢复正常工作"
+      },
+      {
+        "stage": "任务限制",
+        "target": "暂缓安排其进入琥珀色-C级或更高的认知危害阈界，为期至少三个月",
+        "method": "限制高风险任务",
+        "measures": "为期至少三个月"
+      },
+      {
+        "stage": "定期检查",
+        "target": "建议对象每月进行一次强制性心理复查，持续半年",
+        "method": "心理复查",
+        "measures": "每月一次，持续半年"
+      },
+      {
+        "stage": "培训教材",
+        "target": "将此案例纳入认知危害培训教材，强调即使是有经验的专家，在特定情境下也极易受到感染",
+        "method": "案例教学",
+        "measures": "纳入认知危害培训教材"
+      },
+      {
+        "stage": "协议强化",
+        "target": "强化针对囤积者回廊(TMS-L0734)的协议：任何物品不得从阈界内带出，应被视为绝对禁令",
+        "method": "强化禁令",
+        "measures": "任何物品不得从阈界内带出"
+      }
+    ],
+    "threatAssessment": "对象已从STCC中康复，不再对TMS-L0734或该特定物品有临床意义上的异常心理反应。此次事件证实了TMS-L0734认知危害具有高度针对性和滞后性。",
+    "recommendations": [
+      {
+        "type": "工作安排",
+        "measures": "对象适合重返一般性职责，包括心理咨询和低风险任务评估"
+      },
+      {
+        "type": "任务限制",
+        "measures": "暂缓安排其进入琥珀色-C级或更高的认知危害阈界，为期至少三个月"
+      },
+      {
+        "type": "定期检查",
+        "measures": "建议对象每月进行一次强制性心理复查，持续半年"
+      },
+      {
+        "type": "培训教材",
+        "measures": "将此案例纳入认知危害培训教材，强调即使是有经验的专家，在特定情境下也极易受到感染"
+      },
+      {
+        "type": "协议强化",
+        "measures": "强化针对囤积者回廊(TMS-L0734)的协议：任何物品不得从阈界内带出，应被视为绝对禁令"
+      }
+    ],
+    "appendices": [
+      {
+        "code": "A",
+        "content": "完整的心理测试原始数据与图表"
+      },
+      {
+        "code": "B",
+        "content": "认知行为疗法详细记录"
+      },
+      {
+        "code": "C",
+        "content": "药物使用记录与效果评估"
+      }
+    ]
+  },
+  {
+    "id": "MED-E0771",
+    "code": "MED-E0771",
+    "title": "\"悲鸣\"模因的音频频谱分析与心理影响评估",
+    "status": "活跃",
+    "threatLevel": "琥珀色-C",
+    "threatLevelColor": "琥珀色",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "医疗与心理部",
+    "accessLevel": "4级",
+    "responsibleDepartment": "医疗与心理部",
+    "leadPerson": "戴维·卡特博士",
+    "lastUpdate": "[数据删除]",
+    "description": "本附件为医疗部门对\"悲鸣\"模因的专项分析摘要，详细阐述了其作用机制、心理影响阶段及治疗方案，是对抗该认知危害的核心医疗依据。",
+    "mainDangers": [
+      "模因感染"
+    ],
+    "relatedArchives": [
+      {
+        "code": "TMS-E0771",
+        "type": "阈界档案",
+        "title": "悲鸣之云威胁档案",
+        "relation": "关联威胁档案"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "医疗与心理部医师",
+        "name": "戴维·卡特博士",
+        "signature": "[ESIG-DC]",
+        "date": "[数据删除]",
+        "note": "医疗报告撰写人"
+      },
+      {
+        "position": "医疗与心理部副主任",
+        "name": "埃莉诺·肖博士",
+        "signature": "[ESIG-ES]",
+        "date": "[数据删除]",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "埃莉诺·肖博士 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-E0771.png",
+    "remarks": "本报告为应对TMS-E0771威胁的核心医疗指导文件，建议定期更新治疗方案。 —— 埃莉诺·肖博士",
+    "category": "医疗报告",
+    "executiveSummary": [
+      {
+        "item": "模因来源",
+        "conclusion": "由超过\"卡斯科阈值\"的TMS-E0771个体集群振翅频率产生。并非单一频率，而是一种复杂的、不断变化的谐波叠加"
+      },
+      {
+        "item": "传播媒介",
+        "conclusion": "通过空气振动传播，可被听觉系统接收。其模因效应不依赖于理解特定语言"
+      },
+      {
+        "item": "物理特性",
+        "conclusion": "频谱分析显示，其核心频率范围与人类大脑中处理悲伤、绝望情感的神经活动区域高度耦合"
+      }
+    ],
+    "mechanismAnalysis": [
+      {
+        "dimension": "感染方式",
+        "description": "通过听觉系统接收异常音频频谱，直接作用于情感处理中枢"
+      },
+      {
+        "dimension": "认知框架",
+        "description": "模因效应不依赖于理解特定语言，通过音频频谱直接耦合"
+      },
+      {
+        "dimension": "神经机制",
+        "description": "核心频率范围与人类大脑中处理悲伤、绝望情感的神经活动区域高度耦合"
+      }
+    ],
+    "coreHazards": [
+      {
+        "type": "模因感染",
+        "mechanism": "通过音频频谱直接作用于人类情感处理中枢，能够在短时间内造成不可逆的心理损害"
+      },
+      {
+        "type": "自我增强循环",
+        "mechanism": "能够将受害者的绝望情绪转化为新的模因载体，形成正反馈循环"
+      },
+      {
+        "type": "生命终结",
+        "mechanism": "个体被虫群包裹后，意识活动在72小时内逐渐熄灭并被同化，生物质被分解利用"
+      }
+    ],
+    "clinicalStages": [
+      {
+        "stage": "阶段一 (感染)",
+        "timeFeature": "0至2小时暴露",
+        "symptoms": "情绪莫名低落，听到无法忽视的微弱\"悲鸣\"或\"低语\"，产生轻微的无价值感",
+        "psychologicalImpact": "前额叶皮层活动被抑制，杏仁核活动增强",
+        "physiologicalBasis": "神经活动开始受到模因影响"
+      },
+      {
+        "stage": "阶段二 (同化)",
+        "timeFeature": "2至6小时暴露/或高强度短期暴露",
+        "symptoms": "理性思考能力显著下降，虚无主义与自我否定情绪占据主导。产生强烈的、强迫性的冲动，要求受害者主动走向并接触虫群，认为这是\"回归整体\"、\"获得解放\"的唯一途径",
+        "psychologicalImpact": "神经活动呈现高度同步化异常，类似于重度抑郁状态，但更为急骤",
+        "physiologicalBasis": "大脑神经活动呈现高度同步化异常"
+      },
+      {
+        "stage": "阶段三 (转化)",
+        "timeFeature": "与高密度集群物理接触后",
+        "symptoms": "个体被虫群包裹后，意识活动在72小时内逐渐熄灭并被同化。其生物质被分解利用，生成新的TMS-E0771个体",
+        "psychologicalImpact": "其最终的绝望与虚无感将成为新集群模因信号的一部分，形成一个正反馈循环",
+        "physiologicalBasis": "不可逆。视为生命终结"
+      }
+    ],
+    "treatmentDifficulties": [
+      {
+        "type": "早期干预依赖",
+        "description": "阶段一及时干预效果良好，但阶段二复发率高"
+      },
+      {
+        "type": "终期不可逆",
+        "description": "阶段三无治疗方案，建议进行人道主义终结"
+      },
+      {
+        "type": "易感人群",
+        "description": "预先存在抑郁症、焦虑症、PTSD患者及存在主义危机者抵抗力显著低于心理健康基线水平"
+      }
+    ],
+    "treatmentPlans": [
+      {
+        "stage": "预防",
+        "target": "所有人员",
+        "method": "全频段白噪音干扰",
+        "measures": "唯一有效的现场阻断手段"
+      },
+      {
+        "stage": "早期干预 (阶段一)",
+        "target": "阶段一患者",
+        "method": "立即撤离暴露环境，接受强制性心理评估。采用认知行为疗法（CBT）结合情感稳定药物",
+        "measures": "及时干预效果良好"
+      },
+      {
+        "stage": "中期干预 (阶段二)",
+        "target": "阶段二患者",
+        "method": "高强度心理干预，通常在隔离设施中进行。可能需使用神经阻断剂进行\"硬重置\"，并结合反模因信息进行认知重构",
+        "measures": "复发率高"
+      },
+      {
+        "stage": "终期 (阶段三)",
+        "target": "阶段三患者",
+        "method": "无治疗方案",
+        "measures": "建议进行人道主义终结，以防止其转化为新的模因源并终结其痛苦"
+      }
+    ],
+    "threatAssessment": "TMS-E0771代表一种高度危险的认知威胁，其模因效应通过音频频谱直接作用于人类情感处理中枢，能够在短时间内造成不可逆的心理损害。该威胁的特殊性在于其能够将受害者的绝望情绪转化为新的模因载体，形成自我增强的恶性循环。",
+    "recommendations": [
+      {
+        "type": "预防措施",
+        "measures": "所有接触TMS-E0771的人员必须配备全频段音频屏蔽设备"
+      },
+      {
+        "type": "早期干预",
+        "measures": "建立快速心理评估机制，确保暴露人员在2小时内接受专业治疗"
+      },
+      {
+        "type": "研究方向",
+        "measures": "优先研发针对模因感染的神经阻断药物和反模因信息技术"
+      },
+      {
+        "type": "人员培训",
+        "measures": "加强心理健康筛查，避免易感人群接触相关任务"
+      }
+    ],
+    "appendices": [
+      {
+        "code": "A",
+        "content": "患者典型脑电图对比分析"
+      },
+      {
+        "code": "B",
+        "content": "音频频谱详细分析数据"
+      },
+      {
+        "code": "C",
+        "content": "治疗案例记录与效果评估"
+      }
+    ]
+  }
+]

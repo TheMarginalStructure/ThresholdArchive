@@ -1,0 +1,9 @@
+/**
+ * Custom Cursor - Companion Styles
+ *
+ * Cursor styling is fully managed by CustomCursor.tsx via a dynamically
+ * injected <style> element — no static cursor: none rules here, so
+ * DevTools detection can toggle the system cursor on/off correctly.
+ *
+ * This file is kept for any non-cursor companion styles.
+ */

@@ -1,0 +1,8 @@
+[
+  { "code": "DEPT-00", "name": "最高指挥部", "nameEn": "High Command", "type": "指挥", "siteLocation": "Site-01", "internalChannel": "DEPT-00-COM" },
+  { "code": "DEPT-10", "name": "档案与研究部", "nameEn": "Research & Archives", "type": "研究", "siteLocation": "Site-01", "internalChannel": "DEPT-10-COM" },
+  { "code": "DEPT-20", "name": "外勤行动部", "nameEn": "Field Operations", "type": "行动", "siteLocation": "Site-03", "internalChannel": "DEPT-20-COM" },
+  { "code": "DEPT-30", "name": "医疗与心理部", "nameEn": "Medical & Psychology", "type": "医疗", "siteLocation": "Site-02", "internalChannel": "DEPT-30-COM" },
+  { "code": "DEPT-40", "name": "安全与防护部", "nameEn": "Security & Protection", "type": "安全", "siteLocation": "Site-01", "internalChannel": "DEPT-40-COM" },
+  { "code": "DEPT-50", "name": "后勤与架构部", "nameEn": "Logistics & Infrastructure", "type": "后勤", "siteLocation": "Site-05", "internalChannel": "DEPT-50-COM" }
+]

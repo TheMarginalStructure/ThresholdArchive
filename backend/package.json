@@ -1,0 +1,53 @@
+{
+  "name": "threshold-archive-backend",
+  "version": "1.0.0",
+  "description": "边际结构阈界档案库后端 API",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "db:migrate": "prisma migrate dev",
+    "db:generate": "prisma generate",
+    "db:seed": "tsx prisma/seed.ts",
+    "db:studio": "prisma studio",
+    "db:clear-threat": "tsx src/scripts/clearNonThreshholdThreatLevels.ts"
+  },
+  "keywords": [
+    "threshold",
+    "archive",
+    "api"
+  ],
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adminjs/express": "^6.1.1",
+    "@adminjs/prisma": "^5.0.4",
+    "@prisma/client": "^6.3.1",
+    "adminjs": "^7.8.17",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.19.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.1.1",
+    "tsx": "^4.22.3"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/multer": "^2.1.0",
+    "@types/node": "^22.13.1",
+    "nodemon": "^3.1.9",
+    "prisma": "^6.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}

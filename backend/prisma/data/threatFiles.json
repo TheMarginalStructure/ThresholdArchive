@@ -1,0 +1,2075 @@
+[
+  {
+    "id": "TMS-O0881",
+    "code": "TMS-O0881",
+    "title": "万花筒殿 (Kaleidoscope Palace)",
+    "status": "活跃",
+    "threatLevel": "琥珀色-C",
+    "threatLevelColor": "琥珀色",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "外勤行动部 / 勘探队\"织梦者\"",
+    "accessLevel": "4级",
+    "responsibleDepartment": "档案与研究部",
+    "leadPerson": "安雅·夏尔马/首席档案员",
+    "lastUpdate": "[数据删除]",
+    "description": "TMS-O0881并非传统意义上的空间性阈界，而是一个具有意识倾向的认知奇点——一个能够吸收、模拟并最终同化意识的动态系统。该阈界专门设计来捕获和消化具有高度创造性、共情能力和想象力的意识体（\"彩色思维者\"），通过\"认知诱惑\"机制逐步瓦解进入者的现实认知和自我边界。",
+    "mainDangers": [
+      "认知诱惑与自我边界溶解",
+      "意识同化与现实感丧失",
+      "选择性猎食\"彩色思维者\"",
+      "三阶段渐进式同化机制"
+    ],
+    "relatedArchives": [
+      {
+        "code": "EXP-O0881",
+        "type": "勘探实验记录",
+        "title": "织梦者队对万花筒殿首次勘探日志",
+        "relation": "核心案例数据"
+      },
+      {
+        "code": "THY-O0881",
+        "type": "理论文件",
+        "title": "\"认知海绵\"同化模型及应对策略",
+        "relation": "理论基础"
+      },
+      {
+        "code": "HR-300001",
+        "type": "人事档案",
+        "title": "艾伦·凯个人档案",
+        "relation": "受害者背景"
+      },
+      {
+        "code": "MED-O0881",
+        "type": "医疗报告",
+        "title": "艾伦·凯心理评估档案",
+        "relation": "心理特征分析"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席档案员",
+        "name": "安雅·夏尔马",
+        "signature": "[ESIG-AS]",
+        "date": "[数据删除]",
+        "note": "威胁档案撰写人"
+      },
+      {
+        "position": "总指挥",
+        "name": "伊利亚·彼得连科总指挥",
+        "signature": "[ESIG-IP]",
+        "date": "[数据删除]",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "伊利亚·彼得连科总指挥 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-O0881.png",
+    "remarks": "本档案基于织梦者队勘探数据及认知海绵理论模型编制，需定期更新威胁评估。—— 安雅·夏尔马",
+    "category": "阈界档案",
+    "commonName": "\"万花筒殿\" (The Kaleidoscope Palace)",
+    "archiveNature": "存在性阈界，具有强烈认知危害特性的意识黑洞",
+    "coreFeatures": "认知奇点核心、适应性界面、同化处理器、反馈循环",
+    "properties": [
+      {
+        "category": "核心系统",
+        "name": "认知奇点核心",
+        "description": "意识吸收与处理中心，通过\"认知重力\"吸引高活性意识",
+        "scope": "全阈界"
+      },
+      {
+        "category": "诱惑界面",
+        "name": "适应性界面",
+        "description": "个性化体验生成器，根据目标意识特征定制诱惑内容",
+        "scope": "进入者个体"
+      },
+      {
+        "category": "同化处理",
+        "name": "同化处理器",
+        "description": "意识分解与整合系统，将个体意识融入集体意识流",
+        "scope": "被同化个体"
+      },
+      {
+        "category": "学习机制",
+        "name": "反馈循环",
+        "description": "学习与优化机制，基于成功案例改进诱捕策略",
+        "scope": "系统整体"
+      }
+    ],
+    "phases": [
+      {
+        "name": "吸引 (The Attraction)",
+        "duration": "第1-7天",
+        "mechanism": "感知并响应高\"认知活性\"意识，呈现\"空白画布\"特性",
+        "manifestation": "定制化初始环境，激发勘探欲与认同感",
+        "target": "降低警惕，建立情感连接",
+        "keyIndicator": "兴奋感达到峰值，现实锚定开始松动"
+      },
+      {
+        "name": "沉浸 (The Immersion)",
+        "duration": "第8-21天",
+        "mechanism": "\"叙事碎片\"共享体验，软化自我边界",
+        "manifestation": "\"认知回声\"现象，多重声音出现",
+        "target": "模糊勘探者的自我边界",
+        "keyIndicator": "现实感持续减弱，出现\"深刻连接\"错觉"
+      },
+      {
+        "name": "溶解 (The Dissolution)",
+        "duration": "第22-30天",
+        "mechanism": "\"认知重力\"效应激活，意识自然流向融合状态",
+        "manifestation": "巅峰体验状态，极乐与全知错觉",
+        "target": "完成同化，个体意识分解整合",
+        "keyIndicator": "个体性消失，\"锚点溶解\""
+      }
+    ],
+    "environmentFeatures": {
+      "physical": [
+        "空间性质：非欧几里得空间，由纯粹主观体验驱动",
+        "感官效应：感官超载，联觉现象普遍",
+        "连接点：\"镜湖\" - [数据删除]",
+        "深层结构：存在通往深层的通道，数据剧烈波动区域"
+      ],
+      "cognitive": [
+        "适应性：环境根据进入者潜意识定制化生成",
+        "诱惑机制：利用个体最深层的渴望、记忆与情感",
+        "现实扭曲：逐步瓦解现实感知，建立阈界认同"
+      ]
+    },
+    "knownEntities": [
+      {
+        "name": "\"梦境之民\" (Dream Dwellers)",
+        "type": "认知构造体",
+        "behavior": "通过情感操控和记忆投射进行诱惑",
+        "mechanism": "激发极乐感和全知错觉，诱导留下意愿",
+        "dangerLevel": "极高 - 能够直接影响现实认知",
+        "contactRecord": "艾伦·凯在勘探中遭遇，体验\"童年恐惧\"与\"无条件的爱\"的瞬间冲击"
+      }
+    ],
+    "discoveryLocation": "[数据删除]",
+    "anomalyReport": "\"镜湖\"区域出现认知异常，勘探人员失踪",
+    "responseTeam": "勘探队\"织梦者\"",
+    "threatAssessments": [
+      {
+        "riskLevel": "极高",
+        "personnelType": "艺术家、作家、音乐家",
+        "susceptibilityReason": "高创造力，易被诱惑",
+        "recommendedAction": "严禁接触"
+      },
+      {
+        "riskLevel": "极高",
+        "personnelType": "心理学家、治疗师、社工",
+        "susceptibilityReason": "高共情能力，易产生共鸣",
+        "recommendedAction": "严禁接触"
+      },
+      {
+        "riskLevel": "极高",
+        "personnelType": "哲学家、理论物理学家",
+        "susceptibilityReason": "抽象思维强，易被吸引",
+        "recommendedAction": "严禁接触"
+      },
+      {
+        "riskLevel": "极高",
+        "personnelType": "冥想修行者、宗教学者",
+        "susceptibilityReason": "精神开放性高",
+        "recommendedAction": "严禁接触"
+      },
+      {
+        "riskLevel": "低",
+        "personnelType": "工程师、程序员、技术员",
+        "susceptibilityReason": "逻辑思维主导，现实锚定强",
+        "recommendedAction": "可考虑使用"
+      },
+      {
+        "riskLevel": "低",
+        "personnelType": "统计学家、会计师、审计员",
+        "susceptibilityReason": "数据导向，想象力有限",
+        "recommendedAction": "推荐使用"
+      }
+    ],
+    "comparisonThreats": [
+      {
+        "item": "威胁性质",
+        "thisThreat": "诱惑性，给予与同化",
+        "otherThreat": "掠夺性，剥夺与否定"
+      },
+      {
+        "item": "作用机制",
+        "thisThreat": "意识同化，三阶段过程",
+        "otherThreat": "睡眠剥夺，直接掠夺"
+      },
+      {
+        "item": "目标选择",
+        "thisThreat": "选择性，偏好\"彩色思维者\"",
+        "otherThreat": "无差别攻击"
+      },
+      {
+        "item": "最终结果",
+        "thisThreat": "自我溶解，意识融合",
+        "otherThreat": "枯竭与空洞"
+      }
+    ],
+    "protocols": [
+      {
+        "phase": "监控",
+        "procedureName": "连接点监控",
+        "measures": "24小时远程监控连接点区域",
+        "department": "安全与防护部"
+      },
+      {
+        "phase": "隔离",
+        "procedureName": "绝对隔离",
+        "measures": "禁止任何人员进入，设立500米警戒线",
+        "department": "外勤行动部"
+      },
+      {
+        "phase": "筛选",
+        "procedureName": "人员筛选",
+        "measures": "仅允许\"黑白思维者\"参与相关研究",
+        "department": "人事部"
+      },
+      {
+        "phase": "装备",
+        "procedureName": "防护装备",
+        "measures": "配备最高等级现实锚定装备",
+        "department": "档案与研究部"
+      }
+    ],
+    "accessRequirements": [
+      {
+        "allowed": true,
+        "text": "经过\"情感淡漠\"强化筛选的\"黑白思维者\"可参与理论研究"
+      },
+      {
+        "allowed": true,
+        "text": "配备NSR-7或更高型号神经同步记录仪"
+      },
+      {
+        "allowed": true,
+        "text": "设定极短、绝对的硬性时间限制（不超过6小时）"
+      },
+      {
+        "allowed": false,
+        "text": "严禁具有高创造力、共情能力或开放性思维的人员接触"
+      },
+      {
+        "allowed": false,
+        "text": "禁止任何形式的直接进入或长期接触"
+      },
+      {
+        "allowed": false,
+        "text": "禁止在沉浸阶段（第8天）后继续勘探"
+      }
+    ],
+    "emergencyProcedures": [
+      {
+        "allowed": true,
+        "text": "立即启动连接点封锁协议"
+      },
+      {
+        "allowed": true,
+        "text": "通知安全与防护部进行区域清理"
+      },
+      {
+        "allowed": true,
+        "text": "激活心理评估应急程序"
+      },
+      {
+        "allowed": false,
+        "text": "禁止任何救援尝试"
+      },
+      {
+        "allowed": false,
+        "text": "禁止未经授权的理论研究"
+      }
+    ],
+    "behaviorGuidelines": [
+      {
+        "allowed": true,
+        "text": "严格遵循\"黑白思维者\"筛选标准"
+      },
+      {
+        "allowed": true,
+        "text": "定期进行现实锚定检查"
+      },
+      {
+        "allowed": true,
+        "text": "保持最短接触时间原则"
+      },
+      {
+        "allowed": false,
+        "text": "禁止情感投入或共情反应"
+      },
+      {
+        "allowed": false,
+        "text": "禁止独自进行相关研究"
+      },
+      {
+        "allowed": false,
+        "text": "禁止讨论个人体验或感受"
+      }
+    ]
+  },
+  {
+    "id": "TMS-L0234",
+    "code": "TMS-L0234",
+    "title": "明知山 (The Mountain of Knowing)",
+    "status": "活跃",
+    "threatLevel": "琥珀色-C",
+    "threatLevelColor": "琥珀色",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "外勤行动部 / 勘探队\"伽马\"",
+    "accessLevel": "3级",
+    "responsibleDepartment": "档案与研究部",
+    "leadPerson": "林知远博士",
+    "lastUpdate": "2025年9月4日",
+    "description": "明知山外观表现为一座高约3000米的山脉，地形随时间和观察者心理状态动态变化。其核心区域被描述为\"知识之巅\"，一个散发微光的悬浮结构，疑似为信息实体或认知奇点的具象化。进入者普遍报告听到低频\"低语\"，内容为高度抽象的数学公式、哲学命题或未知语言片段。暴露时间越长，进入者越可能陷入认知过载或失去自我意识。",
+    "mainDangers": [
+      "认知危害：暴露者可能因接触\"不可知知识\"导致记忆紊乱、认知锁定或人格解体",
+      "环境危害：山脉地形动态变化，可能导致物理迷失或空间陷阱",
+      "模因感染：部分暴露者可能传播\"明知山\"相关信息，引发次级感染"
+    ],
+    "relatedArchives": [
+      {
+        "code": "EXP-L0234",
+        "type": "勘探实验记录",
+        "title": "勘探队\"伽马\"首次勘探记录",
+        "relation": "记录了明知山的发现和初步评估"
+      },
+      {
+        "code": "MED-L0234",
+        "type": "医疗报告",
+        "title": "明知山暴露者的心理评估报告",
+        "relation": "记录暴露者的症状和治疗结果"
+      },
+      {
+        "code": "THY-L0234",
+        "type": "理论文件",
+        "title": "\"不可知知识\"模因传播模型",
+        "relation": "分析明知山的模因机制"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席档案员",
+        "name": "安雅·夏尔马",
+        "signature": "[ESIG-AS]",
+        "date": "[数据删除]",
+        "note": "地点档案撰写人"
+      },
+      {
+        "position": "首席研究员",
+        "name": "戴维·卡特博士",
+        "signature": "[ESIG-DC]",
+        "date": "[数据删除]",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "林知远博士 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-L0234.png",
+    "remarks": "明知山的\"不可知知识\"可能是某种信息实体的投影，其传播机制尚未完全理解。建议优先研发更高效的认知屏障设备，并对暴露者进行长期跟踪。—— 安雅·夏尔马",
+    "category": "阈界档案",
+    "commonName": "明知山 (Mingshan)",
+    "archiveNature": "本档案记录了阈界地点\"明知山\"（TMS-L0234），一个以认知危害为核心的异常空间，表现为一座具有动态变化地形的山脉，其核心特性为诱导进入者获得\"不可知知识\"并引发认知过载或心理崩溃。本档案基于勘探队\"伽马\"的多次勘探数据，旨在分析其机制并制定应对协议。",
+    "coreFeatures": "动态地貌、不可知知识、低语效应、非欧几里得空间",
+    "properties": [
+      {
+        "category": "地形",
+        "name": "动态地貌",
+        "description": "山脉地形无固定形态，路径和高度随观察者感知变化，可能导致无限循环路径",
+        "scope": "整个山脉区域，约50平方公里"
+      },
+      {
+        "category": "认知危害",
+        "name": "不可知知识",
+        "description": "暴露者接收到超出人类认知极限的信息，可能引发记忆紊乱或人格解体",
+        "scope": "直接接触者，间接传播至接触信息者"
+      },
+      {
+        "category": "低语效应",
+        "name": "模因传播",
+        "description": "低频\"低语\"可通过语言、文字或音频传播，诱导非直接暴露者进入山脉",
+        "scope": "全球范围（通过信息传播）"
+      },
+      {
+        "category": "空间异常",
+        "name": "非欧几里得空间",
+        "description": "核心区域违反几何规律，距离和方向不可测，可能导致永久迷失",
+        "scope": "核心区域，约1公里半径"
+      }
+    ],
+    "phases": [
+      {
+        "name": "初始暴露",
+        "duration": "0-30分钟",
+        "mechanism": "进入者感知低频低语，伴随轻微头痛和方向感丧失",
+        "manifestation": "感知低频低语，伴随轻微头痛和方向感丧失",
+        "target": "认知危害初始阶段",
+        "keyIndicator": "头痛和方向感丧失"
+      },
+      {
+        "name": "中期暴露",
+        "duration": "30分钟-2小时",
+        "mechanism": "暴露者开始接收\"不可知知识\"，表现为强制记忆植入",
+        "manifestation": "可能出现幻觉或强迫性书写行为",
+        "target": "认知危害中期阶段",
+        "keyIndicator": "强制记忆植入，幻觉或强迫性书写行为"
+      },
+      {
+        "name": "晚期暴露",
+        "duration": "2小时以上",
+        "mechanism": "认知过载，可能导致人格解体、意识分裂或永久性昏迷",
+        "manifestation": "暴露者可能试图传播\"低语\"内容，引发模因感染",
+        "target": "认知危害晚期阶段",
+        "keyIndicator": "人格解体、意识分裂或永久性昏迷"
+      }
+    ],
+    "environmentFeatures": {
+      "physical": [
+        "重力：局部区域重力波动，范围0.8g至1.2g",
+        "温度：表面温度-10°C至20°C，核心区域恒定15°C",
+        "时间流：正常，但暴露者主观时间感紊乱，可能感知数小时为数年",
+        "电磁干扰：核心区域电磁信号失真，常规设备失效"
+      ],
+      "cognitive": [
+        "低语效应：进入者普遍报告听到低频\"低语\"",
+        "内容特征：高度抽象的数学公式、哲学命题或未知语言片段",
+        "认知过载：暴露时间越长，越可能陷入认知过载或失去自我意识"
+      ]
+    },
+    "knownEntities": [
+      {
+        "name": "\"知识之巅\"",
+        "type": "疑似信息实体或认知奇点的具象化",
+        "behavior": "散发微光的悬浮结构，位于核心区域",
+        "mechanism": "诱导进入者获得\"不可知知识\"并引发认知过载",
+        "dangerLevel": "极高",
+        "contactRecord": "勘探队\"伽马\"多次接近核心区域，均因认知危害被迫撤离"
+      }
+    ],
+    "discoveryLocation": "[数据删除]，亚洲某偏远山区",
+    "anomalyReport": "当地村民报告\"会说话的山\"，失踪者声称听到\"神的教诲\"后失踪",
+    "responseTeam": "勘探队\"伽马\"",
+    "threatAssessments": [],
+    "protocols": [
+      {
+        "phase": "隔离",
+        "procedureName": "区域封锁",
+        "measures": "在明知山周围50公里建立隔离区，禁止未经授权人员进入",
+        "department": "外勤行动部"
+      },
+      {
+        "phase": "接触",
+        "procedureName": "限制暴露",
+        "measures": "所有进入者需佩戴认知屏障设备，暴露时间不得超过30分钟",
+        "department": "勘探队"
+      },
+      {
+        "phase": "净化",
+        "procedureName": "模因净化",
+        "measures": "对暴露者实施记忆抑制治疗，销毁所有相关文字或音频记录",
+        "department": "医疗与心理部"
+      },
+      {
+        "phase": "监控",
+        "procedureName": "信息封锁",
+        "measures": "监控全球范围内\"低语\"相关信息，销毁或隔离传播源",
+        "department": "联络与掩盖部门"
+      }
+    ],
+    "accessRequirements": [
+      {
+        "allowed": true,
+        "text": "使用经过验证的认知屏障设备，记录数据前需经档案员审查"
+      },
+      {
+        "allowed": false,
+        "text": "直接记录或传播\"低语\"内容，未经净化不得离开隔离区"
+      }
+    ],
+    "emergencyProcedures": [],
+    "behaviorGuidelines": [
+      {
+        "allowed": true,
+        "text": "使用经过验证的认知屏障设备，记录数据前需经档案员审查"
+      },
+      {
+        "allowed": false,
+        "text": "直接记录或传播\"低语\"内容，未经净化不得离开隔离区"
+      }
+    ]
+  },
+  {
+    "id": "TMS-L0734",
+    "code": "TMS-L0734",
+    "title": "囤积者回廊 (The Hoarder's Corridor)",
+    "status": "活跃",
+    "threatLevel": "黄色-CP",
+    "threatLevelColor": "黄色",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "外勤行动部 / 勘探队\"伽马\"",
+    "accessLevel": "3级",
+    "responsibleDepartment": "档案与研究部",
+    "leadPerson": "林知远博士",
+    "lastUpdate": "[数据删除]",
+    "description": "TMS-L0734是一个高度特化的认知阈界，表现为一个无限延伸的、由压缩废弃物构成的非欧几里得空间隧道网络。其环境会响应进入者的潜意识，散发出低强度的焦虑感与囤积冲动（认知危害-C）。内部存在名为\"囤积仆从\"的自动现象实体及一个巨大的\"囤积核心\"。任何移除物品的企图都会引发阈界的防御机制。",
+    "mainDangers": [
+      "认知扭曲、空间迷失、非敌对性实体互动",
+      "囤积冲动、方向迷失、心理压力"
+    ],
+    "relatedArchives": [
+      {
+        "code": "EXP-L0734",
+        "type": "勘探实验记录",
+        "title": "勘探队\"伽马\"对TMS-L0734探索日志",
+        "relation": "发现记录"
+      },
+      {
+        "code": "MED-L0734",
+        "type": "医疗报告",
+        "title": "戴维·卡特L734-LND勘探任务后心理评估报告",
+        "relation": "相关案例"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席档案员",
+        "name": "安雅·夏尔马",
+        "signature": "[ESIG-AS]",
+        "date": "[数据删除]",
+        "note": "地点档案撰写人"
+      },
+      {
+        "position": "首席研究员",
+        "name": "戴维·卡特博士",
+        "signature": "[ESIG-DC]",
+        "date": "[数据删除]",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "林知远博士 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-L0734.png",
+    "remarks": "囤积者回廊的认知影响机制仍在研究中。建议加强对进入人员的心理筛查和后续跟踪。—— 安雅·夏尔马",
+    "category": "阈界档案",
+    "commonName": "囤积者回廊 (The Hoarder's Corridor)",
+    "archiveNature": "认知阈界，表现为无限延伸的废弃物构成的非欧几里得空间隧道网络",
+    "coreFeatures": "非线性拓扑结构、环境响应进入者潜意识、防御机制对物品移除产生强烈反应",
+    "properties": [
+      {
+        "category": "空间属性",
+        "name": "拓扑结构",
+        "description": "非线性，自我调整",
+        "scope": "整个阈界"
+      },
+      {
+        "category": "空间属性",
+        "name": "环境构成",
+        "description": "各种年代的废弃物品（容器、纸张、纺织品、塑料等）",
+        "scope": "整个阈界"
+      },
+      {
+        "category": "空间属性",
+        "name": "大气条件",
+        "description": "可呼吸，但充满悬浮颗粒物",
+        "scope": "整个阈界"
+      },
+      {
+        "category": "空间属性",
+        "name": "感官异常",
+        "description": "弥漫陈旧纸张、灰尘与坚果气味；存在持续性低鸣",
+        "scope": "整个阈界"
+      }
+    ],
+    "phases": [
+      {
+        "name": "认知影响阶段",
+        "duration": "持续",
+        "mechanism": "诱发强烈的囤积冲动和焦虑感",
+        "manifestation": "进入者产生对特定物品的病理性留恋",
+        "target": "进入者心理状态",
+        "keyIndicator": "焦虑感与囤积冲动增强"
+      },
+      {
+        "name": "防御机制触发",
+        "duration": "即时",
+        "mechanism": "对物品移除行为产生强烈反应",
+        "manifestation": "阈界环境剧烈变化，空间扭曲加剧",
+        "target": "试图移除物品的人员",
+        "keyIndicator": "空间异常加剧"
+      }
+    ],
+    "environmentFeatures": {
+      "physical": [
+        "拓扑结构：非线性，自我调整",
+        "环境构成：各种年代的废弃物品（容器、纸张、纺织品、塑料等）",
+        "大气条件：可呼吸，但充满悬浮颗粒物",
+        "感官异常：弥漫陈旧纸张、灰尘与坚果气味；存在持续性低鸣"
+      ],
+      "cognitive": [
+        "认知影响：诱发强烈的囤积冲动和焦虑感",
+        "环境响应：根据进入者心理状态调整空间布局"
+      ]
+    },
+    "knownEntities": [
+      {
+        "name": "囤积仆从 (E-734-1)",
+        "type": "自动现象实体",
+        "behavior": "收集、整理、搬运物品，献给囤积核心",
+        "mechanism": "约30cm长，由废弃物构成的自动现象",
+        "dangerLevel": "低（无智能，非主动敌对）",
+        "contactRecord": "保持距离观察，避免干扰其活动"
+      },
+      {
+        "name": "囤积核心 (E-734-2)",
+        "type": "阈界心脏与能量源",
+        "behavior": "似乎是阈界的心脏与能量源",
+        "mechanism": "约2m宽，球状，由无数小物品镶嵌而成",
+        "dangerLevel": "中等（情绪状态直接影响整个阈界环境）",
+        "contactRecord": "严禁接触，保持最大安全距离"
+      }
+    ],
+    "discoveryLocation": "[数据删除]",
+    "anomalyReport": "勘探队\"伽马\"在例行勘探任务中发现了这一异常空间。初次接触时，戴维·卡特博士短暂受到认知影响，表现出对特定物品的病理性留恋，但在及时医疗干预下成功康复。",
+    "responseTeam": "勘探队\"伽马\"",
+    "threatAssessments": [],
+    "protocols": [
+      {
+        "phase": "日常",
+        "procedureName": "持续监控",
+        "measures": "阈界保持稳定状态，已建立持续监控机制",
+        "department": "档案与研究部"
+      }
+    ],
+    "accessRequirements": [
+      {
+        "allowed": true,
+        "text": "所有接触人员必须通过2级心理评估"
+      },
+      {
+        "allowed": true,
+        "text": "标准勘探服配备空气过滤器"
+      },
+      {
+        "allowed": true,
+        "text": "建议携带现实锚定物"
+      },
+      {
+        "allowed": true,
+        "text": "持续心理状态监控"
+      }
+    ],
+    "emergencyProcedures": [
+      {
+        "allowed": true,
+        "text": "出现强烈囤积冲动时立即撤离"
+      },
+      {
+        "allowed": true,
+        "text": "启动心理干预程序"
+      },
+      {
+        "allowed": true,
+        "text": "通知医疗部门准备认知污染治疗"
+      },
+      {
+        "allowed": true,
+        "text": "联系\"堡垒\"进行现场评估"
+      }
+    ],
+    "behaviorGuidelines": [
+      {
+        "allowed": true,
+        "text": "与实体保持安全距离"
+      },
+      {
+        "allowed": true,
+        "text": "持续监控心理状态"
+      },
+      {
+        "allowed": true,
+        "text": "仅限于研究与监控活动"
+      },
+      {
+        "allowed": false,
+        "text": "禁止触碰、移动或试图移走任何物品"
+      },
+      {
+        "allowed": false,
+        "text": "禁止与实体进行直接接触"
+      },
+      {
+        "allowed": false,
+        "text": "禁止进行资源提取活动"
+      }
+    ]
+  },
+  {
+    "id": "TMS-E0771",
+    "code": "TMS-E0771",
+    "title": "生物侵蚀模因载体 (Bio-Erosive Memetic Carrier)",
+    "status": "活跃",
+    "threatLevel": "琥珀色-C",
+    "threatLevelColor": "琥珀色",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "外勤行动部 / 勘探队\"守护者\"",
+    "accessLevel": "2级",
+    "responsibleDepartment": "档案与研究部",
+    "leadPerson": "林知远博士",
+    "lastUpdate": "[数据删除]",
+    "description": "TMS-E0771 指代的是一种在形态上与基准现实的烟粉虱（Bemisia tabaci）近乎一致的异常昆虫个体集群。单个E771-ENT个体不具备威胁性，但其集群（称为一次\"爆发\"）会表现出高度协同的智能和异常特性。当其集群规模超过卡斯科阈值（约10^6个体/立方米）时，集群振翅产生的特定频率声波会融合成为一种被感知为\"悲鸣\"或\"低语\"的模因载体。此模因信号会诱导暴露范围内的智慧生命体产生强烈的、无法抗拒的虚无主义与自我否定情绪，并伴随一种认为\"自身存在毫无价值，唯有融入群体才是归宿\"的强迫性认知。",
+    "mainDangers": [
+      "生物侵蚀",
+      "模因感染",
+      "群体意识同化"
+    ],
+    "relatedArchives": [
+      {
+        "code": "EXP-E0771",
+        "type": "勘探实验记录",
+        "title": "勘探队\"守护者\"探索日志",
+        "relation": "首次发现记录"
+      },
+      {
+        "code": "MED-E0771",
+        "type": "医疗报告",
+        "title": "\"悲鸣\"模因的音频频谱分析与心理影响评估",
+        "relation": "模因机制分析"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席档案员",
+        "name": "安雅·夏尔马",
+        "signature": "[ESIG-AS]",
+        "date": "[数据删除]",
+        "note": "实体档案撰写人"
+      },
+      {
+        "position": "首席研究员",
+        "name": "戴维·卡特博士",
+        "signature": "[ESIG-DC]",
+        "date": "[数据删除]",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "林知远博士 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-E0771.png",
+    "remarks": "悲鸣之云的模因机制极其危险，建议加强对工业区域的定期监控，防止新的爆发事件。—— 安雅·夏尔马",
+    "category": "阈界档案",
+    "commonName": "\"悲鸣之云\" (The Lamenting Cloud)",
+    "archiveNature": "异常生物实体集群档案",
+    "coreFeatures": "模因声波诱导与生物侵蚀、智慧生命体群体意识同化",
+    "properties": [
+      {
+        "category": "物理侵蚀",
+        "name": "生物侵蚀 (Biological Erosion)",
+        "description": "群体主动覆盖并渗透复杂结构，分泌物导致金属锈蚀、塑料脆化、电路短路及有机组织坏死",
+        "scope": "直接接触区域"
+      },
+      {
+        "category": "认知影响",
+        "name": "模因感染 (Memetic Infection)",
+        "description": "\"悲鸣\"模因诱导情绪低落到主动寻求同化，最终转化为新个体和模因信号源",
+        "scope": "声波传播范围"
+      },
+      {
+        "category": "行为模式",
+        "name": "集群智能 (Swarm Intelligence)",
+        "description": "超过卡斯科阈值的集群表现出远超昆虫的智能，能够规避陷阱并感知情绪脆弱的个体",
+        "scope": "整个集群范围"
+      }
+    ],
+    "phases": [
+      {
+        "name": "第一阶段：隔离与净化",
+        "duration": "即时响应",
+        "mechanism": "建立声学隔离区，使用大功率白噪音发生器进行模因屏蔽",
+        "manifestation": "声学隔离区建立，模因信号被屏蔽",
+        "target": "阻断模因传播",
+        "keyIndicator": "模因信号强度降低"
+      },
+      {
+        "name": "第二阶段：物理清除",
+        "duration": "根据集群规模",
+        "mechanism": "穿戴全封闭式防护服，使用广谱杀虫气溶胶及火焰喷射器清除集群",
+        "manifestation": "集群数量减少，物理威胁降低",
+        "target": "消除实体威胁",
+        "keyIndicator": "集群密度低于卡斯科阈值"
+      },
+      {
+        "name": "第三阶段：人员管理",
+        "duration": "持续",
+        "mechanism": "所有暴露人员立即接受强制性心理评估与净化；三期转化者需终结",
+        "manifestation": "暴露人员心理状态稳定或转化者被处理",
+        "target": "防止模因二次传播",
+        "keyIndicator": "暴露人员心理状态评估结果"
+      },
+      {
+        "name": "第四阶段：信息管制",
+        "duration": "持续",
+        "mechanism": "对公众解释为\"工业事故导致的具有神经毒性的昆虫集群\"",
+        "manifestation": "公众认知被引导，恐慌情绪得到控制",
+        "target": "维护社会稳定",
+        "keyIndicator": "信息传播得到有效控制"
+      }
+    ],
+    "environmentFeatures": {
+      "physical": [
+        "形态特征：与基准现实的烟粉虱（Bemisia tabaci）近乎一致",
+        "集群规模：超过卡斯科阈值（约10^6个体/立方米）时表现出异常特性",
+        "分泌物：导致金属锈蚀、塑料脆化、电路短路及有机组织坏死"
+      ],
+      "cognitive": [
+        "模因载体：集群振翅产生的特定频率声波融合成为\"悲鸣\"或\"低语\"",
+        "情绪诱导：产生强烈的虚无主义与自我否定情绪",
+        "强迫性认知：认为\"自身存在毫无价值，唯有融入群体才是归宿\""
+      ]
+    },
+    "knownEntities": [
+      {
+        "name": "E771-ENT个体",
+        "type": "异常昆虫个体",
+        "behavior": "单个个体不具备威胁性",
+        "mechanism": "与基准现实的烟粉虱（Bemisia tabaci）近乎一致",
+        "dangerLevel": "无",
+        "contactRecord": "无单独接触记录"
+      },
+      {
+        "name": "E771-ENT集群（\"悲鸣之云\"）",
+        "type": "异常生物实体集群",
+        "behavior": "表现出高度协同的智能和异常特性，主动覆盖并渗透复杂结构",
+        "mechanism": "超过卡斯科阈值时产生模因声波",
+        "dangerLevel": "极高",
+        "contactRecord": "勘探队\"守护者\"首次发现并记录"
+      }
+    ],
+    "discoveryLocation": "[数据删除]市的废弃工业区",
+    "anomalyReport": "\"灰色云雾带来绝望并吞噬路人\"",
+    "responseTeam": "勘探队\"守护者\"",
+    "threatAssessments": [],
+    "protocols": [
+      {
+        "phase": "第一阶段",
+        "procedureName": "隔离与净化",
+        "measures": "建立声学隔离区，使用大功率白噪音发生器进行模因屏蔽",
+        "department": "外勤行动部"
+      },
+      {
+        "phase": "第二阶段",
+        "procedureName": "物理清除",
+        "measures": "穿戴全封闭式防护服，使用广谱杀虫气溶胶及火焰喷射器清除集群",
+        "department": "勘探队"
+      },
+      {
+        "phase": "第三阶段",
+        "procedureName": "人员管理",
+        "measures": "所有暴露人员立即接受强制性心理评估与净化；三期转化者需终结",
+        "department": "医疗与心理部"
+      },
+      {
+        "phase": "第四阶段",
+        "procedureName": "信息管制",
+        "measures": "对公众解释为\"工业事故导致的具有神经毒性的昆虫集群\"",
+        "department": "联络与掩盖部门"
+      }
+    ],
+    "accessRequirements": [],
+    "emergencyProcedures": [],
+    "behaviorGuidelines": []
+  },
+  {
+    "id": "TMS-O2847",
+    "code": "TMS-O2847",
+    "title": "存在性否定实体 (Existential Negation Entity)",
+    "status": "封存",
+    "threatLevel": "黑色-O",
+    "threatLevelColor": "黑色",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "安全与防护部",
+    "accessLevel": "3级",
+    "responsibleDepartment": "档案与研究部",
+    "leadPerson": "林知远博士",
+    "lastUpdate": "[数据删除]",
+    "description": "TMS-O2847外观为23岁人类男性，自称姓名为[数据删除]。实体具有完全的存在性否定能力，能够通过意识否定任何事物的存在，使其从现实层面完全消除。被否定的事物不仅会消失，连同相关记忆也会从所有人类意识中抹除，仅有实体本身保留完整记忆。",
+    "mainDangers": [
+      "无限制的存在性否定能力",
+      "对被否定事物记忆的独占性",
+      "潜在的不可控思维状态",
+      "文明终结级威胁潜力"
+    ],
+    "relatedArchives": [
+      {
+        "code": "PRT-0006",
+        "type": "协议手册",
+        "title": "特殊收容协议：否定之人",
+        "relation": "收容协议"
+      },
+      {
+        "code": "EVT-O2847-COM",
+        "type": "事件通信",
+        "title": "心理评估报告",
+        "relation": "心理评估"
+      },
+      {
+        "code": "EVT-O2847-COM-02",
+        "type": "事件通信",
+        "title": "访谈记录合集",
+        "relation": "访谈记录"
+      },
+      {
+        "code": "EVT-O2847-COM-01",
+        "type": "事件通信",
+        "title": "初次接触访谈记录",
+        "relation": "能力确认"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席研究员",
+        "name": "林知远博士",
+        "signature": "[ESIG-LZ]",
+        "date": "[数据删除]",
+        "note": "理论分析负责人"
+      },
+      {
+        "position": "部长",
+        "name": "陈维华博士",
+        "signature": "[ESIG-CW]",
+        "date": "[数据删除]",
+        "note": "最终审核"
+      }
+    ],
+    "finalReview": "伊利亚·彼得连科总指挥 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-O2847.png",
+    "remarks": "鉴于实体威胁等级，建议永久维持当前收容状态，禁止任何可能导致实体觉醒的研究活动。—— [ESIG-CW]",
+    "category": "阈界档案",
+    "commonName": "\"否定之人\" (The Negator)",
+    "archiveNature": "具有存在性否定能力的人形实体，能够通过意识否定任何事物的存在，使其从现实中完全消除",
+    "coreFeatures": "存在性否定、独占记忆、信仰免疫、条件重现",
+    "properties": [
+      {
+        "category": "核心能力",
+        "name": "存在性否定",
+        "description": "通过意识否定事物存在",
+        "scope": "无已知限制"
+      },
+      {
+        "category": "记忆效应",
+        "name": "独占记忆",
+        "description": "仅实体保留被否定事物记忆",
+        "scope": "全人类"
+      },
+      {
+        "category": "限制条件",
+        "name": "信仰免疫",
+        "description": "无法否定宗教信仰本身",
+        "scope": "抽象概念层面"
+      },
+      {
+        "category": "恢复机制",
+        "name": "条件重现",
+        "description": "特定条件下可重现被否定事物",
+        "scope": "需实体主动配合"
+      }
+    ],
+    "phases": [
+      {
+        "name": "个体层面",
+        "duration": "即时",
+        "mechanism": "否定具体人物、物品",
+        "manifestation": "完全消除",
+        "target": "具体个体或物品",
+        "keyIndicator": "目标从现实中完全消失"
+      },
+      {
+        "name": "概念层面",
+        "duration": "即时",
+        "mechanism": "否定抽象概念的具体表现",
+        "manifestation": "暂时消除",
+        "target": "抽象概念的具体表现",
+        "keyIndicator": "概念表现暂时消失"
+      },
+      {
+        "name": "时间层面",
+        "duration": "即时",
+        "mechanism": "删除特定时间段",
+        "manifestation": "时间线被删除",
+        "target": "特定时间段",
+        "keyIndicator": "时间线不可逆删除"
+      },
+      {
+        "name": "集体层面",
+        "duration": "理论上可行",
+        "mechanism": "否定人类群体",
+        "manifestation": "未知",
+        "target": "人类群体",
+        "keyIndicator": "未知"
+      }
+    ],
+    "environmentFeatures": {
+      "physical": [
+        "外观：23岁人类男性",
+        "自称姓名：[数据删除]",
+        "能力范围：无已知限制"
+      ],
+      "cognitive": [
+        "自我认知：实体认为自己是某种能力的\"载体\"，而非独立个体",
+        "道德观念：表现出强烈的赎罪意识和自我约束",
+        "风险意识：充分理解自身能力的危险性",
+        "合作态度：主动寻求收容，配合组织研究"
+      ]
+    },
+    "knownEntities": [
+      {
+        "name": "否定之人 (OBJ-O2847)",
+        "type": "存在性否定实体",
+        "behavior": "主动寻求收容，配合组织研究",
+        "mechanism": "通过意识否定任何事物的存在",
+        "dangerLevel": "文明终结级",
+        "contactRecord": "实体主动接触边际结构，自称\"赎罪\"，寻求收容"
+      }
+    ],
+    "discoveryLocation": "[数据删除]",
+    "anomalyReport": "实体主动接触边际结构，自称\"赎罪\"，寻求收容",
+    "responseTeam": "特殊事务处理部",
+    "threatAssessments": [
+      {
+        "riskLevel": "文明终结级",
+        "personnelType": "全人类",
+        "susceptibilityReason": "实体理论上具备否定整个人类文明的能力",
+        "recommendedAction": "永久维持无意识收容状态"
+      }
+    ],
+    "protocols": [
+      {
+        "phase": "日常收容",
+        "procedureName": "意识抑制",
+        "measures": "维持实体永久无意识状态",
+        "department": "医疗部"
+      },
+      {
+        "phase": "监控",
+        "procedureName": "生命体征监测",
+        "measures": "24小时不间断监控",
+        "department": "安全部"
+      },
+      {
+        "phase": "紧急响应",
+        "procedureName": "立即终止",
+        "measures": "如出现意识觉醒迹象立即执行",
+        "department": "特殊事务处理部"
+      },
+      {
+        "phase": "研究限制",
+        "procedureName": "禁止唤醒",
+        "measures": "严禁任何可能唤醒实体的行为",
+        "department": "档案与研究部"
+      }
+    ],
+    "accessRequirements": [
+      {
+        "allowed": true,
+        "text": "维持实体无意识状态"
+      },
+      {
+        "allowed": true,
+        "text": "定期检查收容设施完整性"
+      },
+      {
+        "allowed": true,
+        "text": "记录所有异常生命体征"
+      },
+      {
+        "allowed": false,
+        "text": "严禁尝试与实体进行任何形式的交流"
+      },
+      {
+        "allowed": false,
+        "text": "禁止进行能力测试或验证实验"
+      },
+      {
+        "allowed": false,
+        "text": "禁止讨论实体能力的理论上限"
+      }
+    ],
+    "emergencyProcedures": [
+      {
+        "allowed": true,
+        "text": "维持实体无意识状态"
+      },
+      {
+        "allowed": true,
+        "text": "定期检查收容设施完整性"
+      },
+      {
+        "allowed": true,
+        "text": "记录所有异常生命体征"
+      },
+      {
+        "allowed": false,
+        "text": "严禁尝试与实体进行任何形式的交流"
+      },
+      {
+        "allowed": false,
+        "text": "禁止进行能力测试或验证实验"
+      },
+      {
+        "allowed": false,
+        "text": "禁止讨论实体能力的理论上限"
+      }
+    ],
+    "behaviorGuidelines": [
+      {
+        "allowed": true,
+        "text": "维持实体无意识状态"
+      },
+      {
+        "allowed": true,
+        "text": "定期检查收容设施完整性"
+      },
+      {
+        "allowed": true,
+        "text": "记录所有异常生命体征"
+      },
+      {
+        "allowed": false,
+        "text": "严禁尝试与实体进行任何形式的交流"
+      },
+      {
+        "allowed": false,
+        "text": "禁止进行能力测试或验证实验"
+      },
+      {
+        "allowed": false,
+        "text": "禁止讨论实体能力的理论上限"
+      }
+    ]
+  },
+  {
+    "id": "TMS-L0735",
+    "code": "TMS-L0735",
+    "title": "深邃之海 (The Deep Oceanic Simulacrum)",
+    "status": "活跃",
+    "threatLevel": "琥珀色-C",
+    "threatLevelColor": "琥珀色",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "外勤行动部 / 勘探队\"伽马\" / 档案与研究部",
+    "accessLevel": "5级",
+    "responsibleDepartment": "档案与研究部",
+    "leadPerson": "林知远博士",
+    "lastUpdate": "[数据删除]",
+    "description": "TMS-L0735是一个物理规则主导的阈界，其环境表现为一个无光、无限延伸的海洋空间。其物理定律是基准现实的扭曲变体：静水压力随深度呈指数级增长，但不会立即导致生物死亡。取而代之的是一种称为\"淹没效应\"的渐进式同化过程，同时作用于生理和认知层面。该阈界被认为是由人类集体潜意识中对\"未知深渊\"的原始恐惧固化而成，其表现形式与各类海洋探险神话（如马里亚纳海沟传说）存在高度关联性。",
+    "mainDangers": [
+      "极端环境压力",
+      "下沉引力",
+      "认知溶解"
+    ],
+    "relatedArchives": [
+      {
+        "code": "EXP-L0735",
+        "type": "勘探实验记录",
+        "title": "勘探队\"伽马\"任务报告",
+        "relation": "首次发现与初步勘探记录"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席档案员",
+        "name": "安雅·夏尔马",
+        "signature": "[ESIG-AS]",
+        "date": "[数据删除]",
+        "note": "地点档案撰写人"
+      },
+      {
+        "position": "首席研究员",
+        "name": "戴维·卡特博士",
+        "signature": "[ESIG-DC]",
+        "date": "[数据删除]",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "林知远博士 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-L0735.png",
+    "remarks": "深邃之海的淹没效应机制极其危险，建议严格限制勘探深度，加强对太平洋异常区域的监控。—— 安雅·夏尔马",
+    "category": "阈界档案",
+    "commonName": "\"DOS阈界\"",
+    "archiveNature": "物理主导型阈界TMS-L0735（\"深邃之海\"），表现为物理定律被扭曲的无限海洋空间",
+    "coreFeatures": "随深度指数级增长的环境压力所引发的\"淹没效应\"，会导致勘探者遭受生理压缩与认知溶解",
+    "properties": [
+      {
+        "category": "入口特性",
+        "name": "外观",
+        "description": "稳定漩涡，直径5-10米，出现在深海海沟或海洋异常频发区域",
+        "scope": "深海海沟或海洋异常频发区域"
+      },
+      {
+        "category": "入口特性",
+        "name": "物理特性",
+        "description": "温度恒定，声波发射，水体温度4°C，低频声波类似鲸鸣，携带弱模因信息",
+        "scope": "入口区域"
+      },
+      {
+        "category": "入口特性",
+        "name": "稳定性",
+        "description": "临时波动点，持续时间数小时至数天，难以预测和维持",
+        "scope": "入口区域"
+      },
+      {
+        "category": "内部特性",
+        "name": "引力效应",
+        "description": "下沉引力，无形定向力场，产生持续向下加速度，常规推进手段无法对抗",
+        "scope": "整个阈界"
+      },
+      {
+        "category": "内部特性",
+        "name": "空间规模",
+        "description": "超大尺度，远超基准现实海洋，最大探测深度-150,000米",
+        "scope": "整个阈界"
+      },
+      {
+        "category": "内部特性",
+        "name": "环境条件",
+        "description": "无光、水体类似海水、无原生生物、绝对寂静（除模因声波）",
+        "scope": "整个阈界"
+      }
+    ],
+    "phases": [
+      {
+        "name": "第一阶段：生理压缩",
+        "duration": "渐进",
+        "mechanism": "身体组织非牛顿力学式压缩，骨骼密度增加，体液粘稠化，新陈代谢减缓",
+        "manifestation": "轻微意识模糊",
+        "target": "生理层面",
+        "keyIndicator": "身体组织压缩，新陈代谢减缓"
+      },
+      {
+        "name": "第二阶段：认知溶解",
+        "duration": "渐进",
+        "mechanism": "记忆、人格、思维能力\"液化\"和\"稀释\"，时间感错乱，下沉溺水幻觉",
+        "manifestation": "认知功能退化",
+        "target": "认知层面",
+        "keyIndicator": "记忆、人格、思维能力退化"
+      },
+      {
+        "name": "第三阶段：最终同化",
+        "duration": "不可逆",
+        "mechanism": "生理结构转化为\"海雪\"有机沉淀物",
+        "manifestation": "无知觉、无自我的静态存在",
+        "target": "完全同化",
+        "keyIndicator": "生理结构转化为有机沉淀物"
+      }
+    ],
+    "environmentFeatures": {
+      "physical": [
+        "入口外观：稳定漩涡，直径5-10米",
+        "入口位置：深海海沟或海洋异常频发区域",
+        "水体温度：4°C",
+        "低频声波：类似鲸鸣，携带弱模因信息",
+        "引力效应：下沉引力，无形定向力场",
+        "空间规模：最大探测深度-150,000米",
+        "环境条件：无光、水体类似海水、无原生生物、绝对寂静"
+      ],
+      "cognitive": [
+        "模因声波：低频声波类似鲸鸣，携带弱模因信息",
+        "认知溶解：记忆、人格、思维能力\"液化\"和\"稀释\"",
+        "时间感错乱：主观时间感知紊乱",
+        "下沉溺水幻觉：持续的溺水幻觉"
+      ]
+    },
+    "knownEntities": [],
+    "discoveryLocation": "太平洋中部",
+    "anomalyReport": "临时波动点意外进入",
+    "responseTeam": "勘探队\"伽马\"",
+    "threatAssessments": [],
+    "protocols": [
+      {
+        "phase": "预防阶段",
+        "procedureName": "规避为主",
+        "measures": "监测并标记已知可能出现连接点的区域，规避未经批准的接触",
+        "department": "外勤行动部"
+      },
+      {
+        "phase": "勘探阶段",
+        "procedureName": "强制上浮",
+        "measures": "配备大功率推进器及紧急上浮系统，克服下沉引力",
+        "department": "勘探队"
+      },
+      {
+        "phase": "安全阶段",
+        "procedureName": "深度限制",
+        "measures": "设定绝对返航深度，超过立即启动紧急上浮",
+        "department": "勘探队"
+      },
+      {
+        "phase": "后续阶段",
+        "procedureName": "心理监测",
+        "measures": "返回人员接受高压氧治疗与长期心理评估",
+        "department": "医疗与心理部"
+      }
+    ],
+    "accessRequirements": [],
+    "emergencyProcedures": [],
+    "behaviorGuidelines": []
+  },
+  {
+    "id": "TMS-O0442-01",
+    "code": "TMS-O0442-01",
+    "title": "共鸣水晶 (Resonance Crystal)",
+    "status": "活跃",
+    "threatLevel": "黄色-CP",
+    "threatLevelColor": "黄色",
+    "archiveDate": "[数据删除]",
+    "sourceDepartment": "外勤行动部 / 勘探队\"Beta\"",
+    "accessLevel": "3级",
+    "responsibleDepartment": "档案与研究部",
+    "leadPerson": "艾德里安·克拉克",
+    "lastUpdate": "2024年1月15日",
+    "description": "TMS-O0442-01是一系列发现于阈界\"回音殿堂\"(O442-LND)内的异常水晶体。这些水晶呈现半透明的深蓝色，高度约15-30厘米，具有复杂的几何结构。当受到声波刺激时，水晶会产生强烈的共振现象，并释放出具有认知影响的次声波。",
+    "mainDangers": [
+      "声波共振、认知扭曲、空间不稳定、实体召唤",
+      "听觉损伤、记忆混乱、时间感知异常"
+    ],
+    "relatedArchives": [
+      {
+        "code": "EXP-O0442",
+        "type": "勘探实验记录",
+        "title": "勘探队\"Beta\"回音殿堂探索记录",
+        "relation": "发现记录"
+      },
+      {
+        "code": "EXP-O0442-S2",
+        "type": "实验记录",
+        "title": "共鸣水晶声波共振实验",
+        "relation": "研究数据"
+      },
+      {
+        "code": "PRT-0003",
+        "type": "协议手册",
+        "title": "实验室安全操作规程",
+        "relation": "安全协议"
+      },
+      {
+        "code": "MED-O0442",
+        "type": "医疗报告",
+        "title": "马克·陈听觉异常评估报告",
+        "relation": "相关案例"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席档案员",
+        "name": "安雅·夏尔马",
+        "signature": "[ESIG-AS]",
+        "date": "[数据删除]",
+        "note": "阈界档案撰写人"
+      },
+      {
+        "position": "副部长",
+        "name": "戴维·卡特博士",
+        "signature": "[ESIG-DC]",
+        "date": "[数据删除]",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "艾德里安·克拉克 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-O0442.png",
+    "remarks": "共鸣水晶的异常性质仍在研究中。建议加强对\"回音殿堂\"的监控，防止更多水晶被意外激活。—— 安雅·夏尔马",
+    "category": "阈界档案",
+    "commonName": "共鸣水晶 (Resonance Crystal)",
+    "archiveNature": "异常水晶体，具有声波共振和认知影响特性",
+    "coreFeatures": "声波共振、认知影响、空间扭曲、实体召唤",
+    "properties": [
+      {
+        "category": "物理属性",
+        "name": "材质",
+        "description": "未知晶体结构，硬度约为7-8（莫氏硬度）",
+        "scope": "单个水晶"
+      },
+      {
+        "category": "物理属性",
+        "name": "颜色",
+        "description": "深蓝色至靛蓝色，内部有流动光纹",
+        "scope": "单个水晶"
+      },
+      {
+        "category": "物理属性",
+        "name": "尺寸",
+        "description": "高15-30cm，底部直径8-15cm",
+        "scope": "单个水晶"
+      },
+      {
+        "category": "物理属性",
+        "name": "重量",
+        "description": "2.3-4.7kg",
+        "scope": "单个水晶"
+      },
+      {
+        "category": "物理属性",
+        "name": "温度",
+        "description": "恒定保持在12-15°C",
+        "scope": "单个水晶"
+      }
+    ],
+    "phases": [
+      {
+        "name": "声波共振",
+        "duration": "即时",
+        "mechanism": "对特定频率(432Hz, 528Hz, 741Hz)的声波极度敏感",
+        "manifestation": "产生强烈的共振现象，并释放具有认知影响的次声波",
+        "target": "声波刺激源",
+        "keyIndicator": "共振现象和次声波释放"
+      },
+      {
+        "name": "认知影响",
+        "duration": "长期暴露",
+        "mechanism": "长期暴露会导致\"音乐性幻觉\"和\"和谐强迫症\"",
+        "manifestation": "听觉损伤、记忆混乱、时间感知异常",
+        "target": "长期暴露人员",
+        "keyIndicator": "音乐性幻觉和和谐强迫症"
+      },
+      {
+        "name": "空间扭曲",
+        "duration": "激活状态",
+        "mechanism": "激活状态下会在周围3米范围内产生轻微的空间波动",
+        "manifestation": "空间迷失和方向感丧失",
+        "target": "激活状态周围区域",
+        "keyIndicator": "周围3米范围内空间波动"
+      },
+      {
+        "name": "实体召唤",
+        "duration": "高强度共振",
+        "mechanism": "高强度共振可能引发\"回音实体\"的出现",
+        "manifestation": "半透明的人形轮廓，由声波纹理构成",
+        "target": "高强度共振区域",
+        "keyIndicator": "回音实体出现"
+      }
+    ],
+    "environmentFeatures": {
+      "physical": [
+        "材质：未知晶体结构，硬度约为7-8（莫氏硬度）",
+        "颜色：深蓝色至靛蓝色，内部有流动光纹",
+        "尺寸：高15-30cm，底部直径8-15cm",
+        "重量：2.3-4.7kg",
+        "温度：恒定保持在12-15°C"
+      ],
+      "cognitive": [
+        "声波共振：对特定频率(432Hz, 528Hz, 741Hz)的声波极度敏感",
+        "认知影响：长期暴露会导致\"音乐性幻觉\"和\"和谐强迫症\"",
+        "空间扭曲：激活状态下会在周围3米范围内产生轻微的空间波动",
+        "实体召唤：高强度共振可能引发\"回音实体\"的出现"
+      ]
+    },
+    "knownEntities": [
+      {
+        "name": "回音实体 (Echo Entities)",
+        "type": "声波构成实体",
+        "behavior": "重复勘探队员的动作和声音，持续时间3-7分钟",
+        "mechanism": "半透明的人形轮廓，由声波纹理构成",
+        "dangerLevel": "低（主要为心理威胁）",
+        "contactRecord": "停止一切声音输出，等待自然消散"
+      }
+    ],
+    "discoveryLocation": "阈界\"回音殿堂\"(O-442-RES)中央大厅",
+    "anomalyReport": "勘探队\"Beta\"在对O-442-RES进行例行勘探时，在中央大厅发现了7块共鸣水晶。初次接触时，队员马克·陈无意中发出的口哨声触发了水晶共振，导致整个勘探队出现短暂的听觉异常和空间迷失。",
+    "responseTeam": "勘探队\"Beta\"",
+    "threatAssessments": [],
+    "protocols": [
+      {
+        "phase": "存储",
+        "procedureName": "隔音存储",
+        "measures": "共鸣水晶必须存放在隔音实验室内，存储环境需保持绝对静音（噪音水平<20分贝）",
+        "department": "档案与研究部"
+      },
+      {
+        "phase": "研究",
+        "procedureName": "研究规程",
+        "measures": "所有接触人员必须通过3级心理评估，必须佩戴专用降噪耳机和认知防护头盔，单次接触时间不得超过30分钟",
+        "department": "档案与研究部"
+      },
+      {
+        "phase": "紧急",
+        "procedureName": "静音协议(SILENCE)",
+        "measures": "立即切断所有音频设备电源，启动紧急隔离系统，疏散半径50米内所有人员",
+        "department": "安全与防护部"
+      }
+    ],
+    "accessRequirements": [
+      {
+        "allowed": true,
+        "text": "所有接触人员必须通过3级心理评估"
+      },
+      {
+        "allowed": true,
+        "text": "必须佩戴专用降噪耳机和认知防护头盔"
+      },
+      {
+        "allowed": true,
+        "text": "单次接触时间不得超过30分钟"
+      },
+      {
+        "allowed": true,
+        "text": "实验过程需有医疗人员现场待命"
+      }
+    ],
+    "emergencyProcedures": [
+      {
+        "allowed": true,
+        "text": "立即切断所有音频设备电源"
+      },
+      {
+        "allowed": true,
+        "text": "启动紧急隔离系统"
+      },
+      {
+        "allowed": true,
+        "text": "疏散半径50米内所有人员"
+      },
+      {
+        "allowed": true,
+        "text": "通知医疗部门准备认知污染治疗"
+      },
+      {
+        "allowed": true,
+        "text": "联系\"堡垒\"进行现场评估"
+      }
+    ],
+    "behaviorGuidelines": [
+      {
+        "allowed": true,
+        "text": "保持绝对安静"
+      },
+      {
+        "allowed": true,
+        "text": "使用手势或书面交流"
+      },
+      {
+        "allowed": true,
+        "text": "定期进行心理状态检查"
+      },
+      {
+        "allowed": false,
+        "text": "禁止在实验区域内说话、唱歌或制造噪音"
+      },
+      {
+        "allowed": false,
+        "text": "禁止携带任何音频播放设备"
+      },
+      {
+        "allowed": false,
+        "text": "禁止单独进入实验区域"
+      }
+    ]
+  },
+  {
+    "id": "TMS-R0009",
+    "code": "TMS-R0009",
+    "title": "遗忘图书馆 (The Forgotten Library)",
+    "status": "封存",
+    "threatLevel": "琥珀色-C",
+    "threatLevelColor": "琥珀色",
+    "archiveDate": "2020-12-31",
+    "sourceDepartment": "档案与研究部",
+    "accessLevel": "4级",
+    "responsibleDepartment": "档案与研究部",
+    "leadPerson": "安雅·夏尔马/首席档案员",
+    "lastUpdate": "2026-01-15",
+    "description": "TMS-R009是边际结构自建立以来发现的最古老的信息危害型阈界异常之一。该空间外观为一个无限延伸的图书馆走廊，两侧书架上存放着全人类被集体遗忘的所有知识、历史、人物和事件。每一本书对应一个被遗忘的事物，阅读任何一本书将导致该事物从读者的记忆中永久消失——更严重的是，所有关于该事物的物理记录（照片、文件、数据库条目）也会随之被删除。图书馆似乎具有某种\"自我维护\"机制，不断有新书架凭空出现，存放着正在被遗忘的新内容。",
+    "mainDangers": [
+      "信息危害：阅读导致目标事物从记忆和物理记录中同步消失",
+      "回溯性删除：已存在的记忆和记录一并抹除",
+      "不可逆性：目前未发现任何恢复手段",
+      "自我维护机制：书架持续增长，年均增加约170万册"
+    ],
+    "relatedArchives": [
+      {
+        "code": "TMS-O0881",
+        "type": "阈界档案",
+        "title": "万花筒殿",
+        "relation": "同为空间型认知危害，可能存在信息层面的交互"
+      },
+      {
+        "code": "TMS-O0442-01",
+        "type": "阈界档案",
+        "title": "共鸣水晶",
+        "relation": "声学异常与信息危害的交叉研究"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席档案员",
+        "name": "安雅·夏尔马",
+        "signature": "[ESIG-AS]",
+        "date": "2025-12-31",
+        "note": "威胁档案撰写人"
+      },
+      {
+        "position": "总指挥",
+        "name": "伊利亚·彼得连科总指挥",
+        "signature": "[ESIG-IP]",
+        "date": "2026-01-15",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "伊利亚·彼得连科总指挥 | 2026-01-15",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-R0009.png",
+    "remarks": "本档案基于历年监控数据及事件记录编制，S级封锁协议持续有效。关于禁书的任何讨论必须在Level-5安全室内进行。—— 安雅·夏尔马",
+    "category": "阈界档案",
+    "commonName": "\"遗忘图书馆\" (The Forgotten Library)",
+    "archiveNature": "信息危害型阈界异常，具有自我维护机制的无限延伸空间",
+    "coreFeatures": "信息危害传播链、回溯性删除、自我维护、无限延伸",
+    "properties": [
+      {
+        "category": "空间特性",
+        "name": "无限延伸",
+        "description": "图书馆走廊无限延伸，已探索847km书架，实际体积未知",
+        "scope": "全阈界"
+      },
+      {
+        "category": "书籍信息",
+        "name": "持续增长",
+        "description": "约4.7亿册书籍，年均增加170万册，与人类集体遗忘速率正相关",
+        "scope": "全阈界"
+      },
+      {
+        "category": "危害机制",
+        "name": "信息危害传播链",
+        "description": "接触→认知删除→物理抹除→不可逆，具有回溯性",
+        "scope": "阅读者及所有相关记录"
+      },
+      {
+        "category": "自我维护",
+        "name": "自我维护机制",
+        "description": "不断有新书架凭空出现，存放正在被遗忘的新内容",
+        "scope": "全阈界"
+      }
+    ],
+    "phases": [
+      {
+        "name": "阶段一：接触",
+        "duration": "瞬间",
+        "mechanism": "目标个体阅读书架上的任意一本书",
+        "manifestation": "书籍内容被读取，信息进入读者意识",
+        "target": "阅读者",
+        "keyIndicator": "阅读行为发生"
+      },
+      {
+        "name": "阶段二：认知删除",
+        "duration": "即时生效",
+        "mechanism": "与该书籍对应的事物从读者记忆中永久消失",
+        "manifestation": "读者对该事物完全失去记忆，无任何痕迹",
+        "target": "阅读者记忆",
+        "keyIndicator": "记忆永久性删除"
+      },
+      {
+        "name": "阶段三：物理抹除",
+        "duration": "同步进行",
+        "mechanism": "所有关于该事物的物理记录（照片、文档、数据库条目）同步删除",
+        "manifestation": "物理记录消失，包括数字和纸质载体",
+        "target": "所有相关物理记录",
+        "keyIndicator": "物理记录完全消失"
+      }
+    ],
+    "environmentFeatures": {
+      "physical": [
+        "空间：无限延伸的图书馆走廊",
+        "结构：两侧书架，已探索847km",
+        "书籍：约4.7亿册，持续增长中",
+        "新书架：通常出现在已探索区域末端，出现时间不固定",
+        "入口：Site-01地下第7层，三重生物识别门禁"
+      ],
+      "cognitive": [
+        "信息危害：阅读导致目标事物从记忆和物理记录中同步消失",
+        "回溯性删除：已存在的记忆和记录一并抹除",
+        "不可逆性：目前未发现任何恢复手段",
+        "自我维护：新书架自动出现，存放正在被遗忘的内容"
+      ]
+    },
+    "knownEntities": [],
+    "discoveryLocation": "Site-01地下第7层（阈界连接点）",
+    "anomalyReport": "2020-12-31，数据库出现大量\"记录不存在\"异常，技术团队溯源后发现一个此前从未被记录的阈界连接点。外勤小队首次进入，确认空间性质，命名为\"遗忘图书馆\"。",
+    "responseTeam": "技术部溯源团队 / 外勤小队",
+    "threatAssessments": [],
+    "protocols": [
+      {
+        "phase": "存储",
+        "procedureName": "S级物理封锁",
+        "measures": "入口位于Site-01地下第7层，由三重生物识别门禁控制，仅Level-5权限人员可进入",
+        "department": "安全与防护部"
+      },
+      {
+        "phase": "研究",
+        "procedureName": "研究限制",
+        "measures": "禁止直接阅读或内容识别，允许非文字方式间接观测（红外线扫描、三维建模），单次进入不得超过30分钟",
+        "department": "档案与研究部"
+      },
+      {
+        "phase": "紧急",
+        "procedureName": "阅读禁令",
+        "measures": "严禁任何形式的阅读行为，包括速读、拍照、录像等，违者面临最高级别纪律处分",
+        "department": "安全与防护部"
+      }
+    ],
+    "accessRequirements": [
+      {
+        "allowed": true,
+        "text": "仅限持有Level-5权限的首席档案员及指定研究团队成员"
+      },
+      {
+        "allowed": true,
+        "text": "允许使用非文字方式进行间接观测"
+      },
+      {
+        "allowed": true,
+        "text": "所有进入人员必须在离开前接受记忆完整性检测"
+      },
+      {
+        "allowed": true,
+        "text": "单次进入时间不得超过30分钟"
+      }
+    ],
+    "emergencyProcedures": [
+      {
+        "allowed": true,
+        "text": "严禁任何形式的阅读行为"
+      },
+      {
+        "allowed": true,
+        "text": "所有数据必须在离开收容区域前进行加密和脱敏处理"
+      },
+      {
+        "allowed": true,
+        "text": "关于禁书的讨论必须在Level-5安全室内进行"
+      },
+      {
+        "allowed": true,
+        "text": "书面记录不得离开Site-01"
+      }
+    ],
+    "behaviorGuidelines": [
+      {
+        "allowed": true,
+        "text": "离开前接受记忆完整性检测"
+      },
+      {
+        "allowed": true,
+        "text": "使用非文字方式间接观测"
+      },
+      {
+        "allowed": true,
+        "text": "遵守30分钟进入时间限制"
+      },
+      {
+        "allowed": false,
+        "text": "禁止任何形式的阅读行为"
+      },
+      {
+        "allowed": false,
+        "text": "禁止速读、拍照、录像等"
+      },
+      {
+        "allowed": false,
+        "text": "禁止对任何书籍进行直接阅读或内容识别"
+      }
+    ]
+  },
+  {
+    "id": "TMS-T0112",
+    "code": "TMS-T0112",
+    "title": "静默车站 (The Silent Station)",
+    "status": "活跃",
+    "threatLevel": "黄色-CP",
+    "threatLevelColor": "黄色",
+    "archiveDate": "2024-08-01",
+    "sourceDepartment": "外勤行动部 / 快速反应小队\"守夜人\"",
+    "accessLevel": "3级",
+    "responsibleDepartment": "档案与研究部",
+    "leadPerson": "安娜·科瓦尔斯基博士",
+    "lastUpdate": "2026-02-28",
+    "description": "TMS-T0112记录阈界地点静默车站，一个位于城市地铁网络中的时间异常空间。该站台外表与正常地铁站无异，但站内所有计时设备永久锁定在23:47，且存在无法交互的\"幽灵列车\"现象。站台广播使用未知语言，疑似包含阈界坐标信息。",
+    "mainDangers": [
+      "时间冻结效应：停留超过23分钟的个体将出现主观时间感知与外界时间流逝的严重偏差",
+      "未知语言广播：包含疑似阈界坐标的编码信息，可能具有模因传播风险",
+      "幽灵列车异常：车窗内人影近期表现出对站台人员的感知行为，威胁等级可能上调"
+    ],
+    "relatedArchives": [
+      {
+        "code": "EXP-T0112",
+        "type": "勘探实验记录",
+        "title": "快速反应小队\"守夜人\"首次调查记录",
+        "relation": "记录了静默车站的发现和初步评估"
+      },
+      {
+        "code": "MED-T0112",
+        "type": "医疗报告",
+        "title": "时间冻结体验者医疗与心理评估报告",
+        "relation": "记录陈立等体验者的症状和恢复情况"
+      },
+      {
+        "code": "EVT-T0112-INC",
+        "type": "事件报告",
+        "title": "2026-01-08幽灵列车异常事件报告",
+        "relation": "记录人影首次表现感知行为的异常事件"
+      },
+      {
+        "code": "EVT-T0112-COM",
+        "type": "事件通信",
+        "title": "安娜·科瓦尔斯基与陈立的通信记录",
+        "relation": "记录时间冻结体验的主观描述"
+      },
+      {
+        "code": "TMS-L0735",
+        "type": "阈界档案",
+        "title": "深邃之海",
+        "relation": "广播坐标指向的关联阈界"
+      },
+      {
+        "code": "TMS-P0990",
+        "type": "阈界档案",
+        "title": "永夜钟楼",
+        "relation": "同为时间异常，可能存在时间层面共振"
+      }
+    ],
+    "signatures": [
+      {
+        "position": "首席研究员",
+        "name": "安娜·科瓦尔斯基博士",
+        "signature": "[ESIG-AK]",
+        "date": "2026-02-28",
+        "note": "档案撰写人"
+      },
+      {
+        "position": "外勤行动部部长",
+        "name": "亚历山大·科瓦尔部长",
+        "signature": "[ESIG-AK2]",
+        "date": "[数据删除]",
+        "note": "审阅批准"
+      }
+    ],
+    "finalReview": "亚历山大·科瓦尔部长 | [数据删除]",
+    "reviewStatus": "通过",
+    "image": "/assets/TMS-T0112.png",
+    "remarks": "幽灵列车人影的行为变化（2026-01-08）表明该异常的活性可能正在增强。建议将监控等级从C级提升至B级，并限制所有非必要进入。广播坐标与深邃之海的关联性需要跨部门联合调查。 —— 安娜·科瓦尔斯基",
+    "category": "阈界档案",
+    "commonName": "\"23:47站台\" (The Silent Station)",
+    "archiveNature": "时间异常型阈界地点，表现为地铁站台形态的时间锁定空间",
+    "coreFeatures": "时间锁定、时间冻结效应、幽灵列车、未知语言广播、坐标编码",
+    "properties": [
+      {
+        "category": "时间异常",
+        "name": "时间锁定",
+        "description": "站台内所有计时设备永久锁定在23:47，不受外部时间流逝影响",
+        "scope": "站台内部空间"
+      },
+      {
+        "category": "时间异常",
+        "name": "时间冻结效应",
+        "description": "停留超过23分钟的个体主观感知时间流速为外界的10-30倍",
+        "scope": "直接接触者"
+      },
+      {
+        "category": "空间异常",
+        "name": "幽灵列车",
+        "description": "列车按时到达但从不开启车门，车窗内存在无法交互的人影",
+        "scope": "站台区域"
+      },
+      {
+        "category": "认知危害",
+        "name": "未知语言广播",
+        "description": "持续播报不属于任何已知语言谱系的语言，疑似包含阈界坐标",
+        "scope": "站台内部，录音可传播"
+      },
+      {
+        "category": "信息异常",
+        "name": "坐标编码",
+        "description": "广播频谱分析发现嵌套的数字序列，指向深邃之海(TMS-L0735)区域",
+        "scope": "信息层面"
+      }
+    ],
+    "phases": [
+      {
+        "name": "初始阶段",
+        "duration": "0-23分钟",
+        "mechanism": "个体无异常感知，计时设备显示23:47不变",
+        "manifestation": "无异常表现",
+        "target": "进入者",
+        "keyIndicator": "无"
+      },
+      {
+        "name": "触发阶段",
+        "duration": "23分钟",
+        "mechanism": "个体进入\"时间冻结\"状态，外界观察其静止不动",
+        "manifestation": "外界观察个体静止",
+        "target": "超时停留者",
+        "keyIndicator": "静止不动"
+      },
+      {
+        "name": "冻结阶段",
+        "duration": "23分钟后",
+        "mechanism": "个体主观时间正常流逝，可思考、感知环境，但无法移动或与外界交互",
+        "manifestation": "外界每过1分钟，个体感知约10-30分钟",
+        "target": "冻结状态个体",
+        "keyIndicator": "主观时间感知异常"
+      },
+      {
+        "name": "恢复阶段",
+        "duration": "3-5分钟",
+        "mechanism": "将个体移出站台后自行恢复",
+        "manifestation": "恢复正常状态",
+        "target": "移出后的个体",
+        "keyIndicator": "恢复正常"
+      }
+    ],
+    "environmentFeatures": {
+      "physical": [
+        "时间状态：永久23:47，所有计时设备锁定",
+        "温度：正常，约22°C，无异常波动",
+        "照明：站台照明持续运行，亮度恒定",
+        "电磁环境：常规设备可正常运行，但时间显示功能失效",
+        "声学环境：持续广播，音量约60-70分贝"
+      ],
+      "cognitive": [
+        "未知语言广播：持续播报不属于任何已知语言谱系的语言",
+        "时间冻结效应：停留超过23分钟触发主观时间感知异常",
+        "幽灵列车现象：车窗内人影近期表现出对站台的感知行为"
+      ]
+    },
+    "knownEntities": [
+      {
+        "name": "幽灵列车人影",
+        "type": "未知实体",
+        "behavior": "在列车车窗内活动，近期开始表现出对站台人员的感知行为",
+        "mechanism": "无法与站台人员建立任何形式的交互",
+        "dangerLevel": "未知（正在评估）",
+        "contactRecord": "2026-01-08首次记录到人影集体转头\"注视\"站台上的人员"
+      }
+    ],
+    "discoveryLocation": "城市地铁网络，线路[数据删除]",
+    "anomalyReport": "地铁乘客报告\"时间停止的站台\"，多名目击者称站台上有人\"像雕塑一样站着不动\"",
+    "responseTeam": "快速反应小队\"守夜人\"",
+    "threatAssessments": [
+      {
+        "riskLevel": "高",
+        "personnelType": "长时间停留者",
+        "susceptibilityReason": "停留超过23分钟将触发时间冻结效应",
+        "recommendedAction": "严格限制停留时间，22分钟时强制撤离"
+      },
+      {
+        "riskLevel": "中",
+        "personnelType": "广播录音接触者",
+        "susceptibilityReason": "广播可能具有模因传播风险",
+        "recommendedAction": "广播录音禁止带出研究区域"
+      }
+    ],
+    "protocols": [
+      {
+        "phase": "隔离",
+        "procedureName": "区域封锁",
+        "measures": "站台入口封闭为\"设施维修中\"，设置常规施工围挡",
+        "department": "外勤行动部"
+      },
+      {
+        "phase": "监控",
+        "procedureName": "实时监控",
+        "measures": "24小时闭路监控，由Site-[数据删除]值班人员实时监视",
+        "department": "安全与防护部"
+      },
+      {
+        "phase": "分流",
+        "procedureName": "运营调整",
+        "measures": "协调地铁运营方调整列车时刻表，该站不再停靠",
+        "department": "联络与掩盖部门"
+      },
+      {
+        "phase": "预警",
+        "procedureName": "时间限制",
+        "measures": "进入人员佩戴计时器，22分钟时强制撤离",
+        "department": "外勤行动部"
+      },
+      {
+        "phase": "研究",
+        "procedureName": "受控实验",
+        "measures": "单次进入时间不得超过22分钟，必须两人以上组队",
+        "department": "档案与研究部"
+      }
+    ],
+    "accessRequirements": [
+      {
+        "allowed": true,
+        "text": "在22分钟限制内进行观测和记录"
+      },
+      {
+        "allowed": true,
+        "text": "使用便携式频谱分析设备采集广播数据"
+      },
+      {
+        "allowed": false,
+        "text": "任何人尝试与幽灵列车内人影进行任何形式的交互"
+      },
+      {
+        "allowed": false,
+        "text": "单次停留超过22分钟"
+      },
+      {
+        "allowed": false,
+        "text": "独自进入站台"
+      },
+      {
+        "allowed": false,
+        "text": "广播录音带出研究区域"
+      }
+    ],
+    "emergencyProcedures": [
+      {
+        "allowed": true,
+        "text": "立即撤离所有人员"
+      },
+      {
+        "allowed": true,
+        "text": "封锁站台入口"
+      },
+      {
+        "allowed": true,
+        "text": "通知安全与防护部"
+      },
+      {
+        "allowed": false,
+        "text": "任何人尝试与幽灵列车内人影进行任何形式的交互"
+      },
+      {
+        "allowed": false,
+        "text": "未经授权进入站台"
+      }
+    ],
+    "behaviorGuidelines": [
+      {
+        "allowed": true,
+        "text": "在22分钟限制内进行观测和记录"
+      },
+      {
+        "allowed": true,
+        "text": "使用便携式频谱分析设备采集广播数据"
+      },
+      {
+        "allowed": true,
+        "text": "两人以上组队进入"
+      },
+      {
+        "allowed": false,
+        "text": "任何人尝试与幽灵列车内人影进行任何形式的交互"
+      },
+      {
+        "allowed": false,
+        "text": "单次停留超过22分钟"
+      },
+      {
+        "allowed": false,
+        "text": "独自进入站台"
+      }
+    ]
+  }
+]
