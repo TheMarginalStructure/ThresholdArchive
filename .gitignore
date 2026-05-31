@@ -16,6 +16,9 @@ yarn-error.log*
 # 备份与工具配置
 .backup_20260529/
 .obsidian/
+
+# 开发环境配置指南
+_setup/
 .spec-workflow/
 .trae/
 .reasonix/
@@ -35,8 +38,6 @@ Thumbs.db
 *.db
 *.sqlite
 *.sqlite3
-<<<<<<< HEAD
-=======
 
 # 上传文件
 uploads/
@@ -44,4 +45,3 @@ public/uploads/
 
 # 数据库导出备份（导入用）
 backend/seed-data-export.json
->>>>>>> 6e88b4c (docs: add database setup guide + import/export scripts)
